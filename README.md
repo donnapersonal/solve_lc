@@ -20,11 +20,19 @@ Solve LeetCode by JS &amp; Python
 |	995.K 连续位的最小翻转次数 | [Js/Python](https://github.com/donnapersonal/solve_lc/blob/main/Sliding%20Window/0995.minimum_number_of_K_consecutive_bit_flips.md) | 数组、滑动窗口 | 困难 |
 |	1004.最大连续1的个数 III | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Sliding%20Window/1004.max_consecutive_ones_III.md) | 数组、滑动窗口 | 中等 |
 |	1052.爱生气的书店老板 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Sliding%20Window/1052.grumpy_bookstore_owner.md) | 数组、滑动窗口 | 中等 |
+|	1100.长度为 K 的无重复字符子串 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Sliding%20Window/1100.find_K-Length_substrings_with_no_repeated_characters.md) | 字符串、滑动窗口 | 中等 |
+|	1151.最少交换次数来组合所有的 1 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Sliding%20Window/1151.minimum_swaps_to_group_all_1's_together.md) | 数组、滑动窗口 | 中等 |
+|	1176.健身计划评估 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Sliding%20Window/1176.diet_plan_performance.md) | 数组、滑动窗口 | 简单 |
+|	1208.尽可能使字符串相等 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Sliding%20Window/1208.get_equal_substrings_within_budget.md) | 字符串、滑动窗口 | 中等 |
 |	1343.大小为 K 且平均值大于等于阈值的子数组数目 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Sliding%20Window/1343.number_of_sub-arrays_of_size_K_and_average_greater_than_or_equal_to_threshold.md) | 数组、滑动窗口 | 中等 |
 |	1423.可获得的最大点数 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Sliding%20Window/1423.maximum%20_points_you_can_obtain_from_cards.md) | 数组、滑动窗口 | 中等 |
 |	1438.绝对差不超过限制的最长连续子数组 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Sliding%20Window/1438.longest_continuous_subarray_with_absolute_diff_less_than_or_equal_to_limit.md) | 数组、单调队列、滑动窗口 | 中等 |
 | 1456.定长子串中元音的最大数目 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Sliding%20Window/1456.maximum_number_of_vowels_in_a_substring_of_given_length.md) | 字符串、滑动窗口 | 中等 |
+|	1493.删掉一个元素以后全为 1 的最长子数组 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Sliding%20Window/1493.longest_subarray_of_1's_after_deleting_one_element.md) | 数组、滑动窗口 | 中等 |
+|	1652.拆炸弹 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Sliding%20Window/1652.defuse_the_bomb.md) | 数组、滑动窗口 | 中等 |
 |	1658.将 x 减到 0 的最小操作数 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Sliding%20Window/1658.minimum_operations_to_reduce_X_to_zero.md) | 数组、滑动窗口 | 中等 |
+|	1695.删除子数组的最大得分 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Sliding%20Window/1695.maximum_erasure_value.md) | 数组、滑动窗口 | 中等 |
+|	1852.每个子数组的数字种类数 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Sliding%20Window/1852.distinct_numbers_in_each_subarray.md) | 数组、滑动窗口 | 中等 |
 |	2090.半径为 k 的子数组平均值 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Sliding%20Window/2090.K_radius_subarray_averages.md) | 数组、滑动窗口 | 中等 |
 |	2379.得到 K 个黑块的最少涂色次数 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Sliding%20Window/2379.minimum_recolors_to_get_K_consecutive_black_blocks.md) | 字符串、滑动窗口 | 简单 |
 |	2461.长度为 K 子数组中的最大和 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Sliding%20Window/2461.maximum_sum_of_distinct_subarray_with_length_K.md) | 数组、滑动窗口 | 中等 |
