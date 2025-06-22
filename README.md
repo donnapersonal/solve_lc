@@ -24,6 +24,7 @@ Solve LeetCode by JS &amp; Python
 |	1151.最少交换次数来组合所有的 1 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Sliding%20Window/1151.minimum_swaps_to_group_all_1's_together.md) | 数组、滑动窗口 | 中等 |
 |	1176.健身计划评估 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Sliding%20Window/1176.diet_plan_performance.md) | 数组、滑动窗口 | 简单 |
 |	1208.尽可能使字符串相等 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Sliding%20Window/1208.get_equal_substrings_within_budget.md) | 字符串、滑动窗口 | 中等 |
+|	1234.替换子串得到平衡字符串 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Sliding%20Window/1234.replace_the_substring_for_balanced_string.md) | 字符串、滑动窗口 | 中等 |
 |	1343.大小为 K 且平均值大于等于阈值的子数组数目 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Sliding%20Window/1343.number_of_sub-arrays_of_size_K_and_average_greater_than_or_equal_to_threshold.md) | 数组、滑动窗口 | 中等 |
 |	1423.可获得的最大点数 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Sliding%20Window/1423.maximum%20_points_you_can_obtain_from_cards.md) | 数组、滑动窗口 | 中等 |
 |	1438.绝对差不超过限制的最长连续子数组 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Sliding%20Window/1438.longest_continuous_subarray_with_absolute_diff_less_than_or_equal_to_limit.md) | 数组、单调队列、滑动窗口 | 中等 |
@@ -33,6 +34,7 @@ Solve LeetCode by JS &amp; Python
 |	1658.将 x 减到 0 的最小操作数 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Sliding%20Window/1658.minimum_operations_to_reduce_X_to_zero.md) | 数组、滑动窗口 | 中等 |
 |	1695.删除子数组的最大得分 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Sliding%20Window/1695.maximum_erasure_value.md) | 数组、滑动窗口 | 中等 |
 |	1852.每个子数组的数字种类数 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Sliding%20Window/1852.distinct_numbers_in_each_subarray.md) | 数组、滑动窗口 | 中等 |
+|	2024.考试的最大困扰度 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Sliding%20Window/2024.maximize_the_confusion_of_an_exam.md) | 字符串、滑动窗口 | 中等 |
 |	2090.半径为 k 的子数组平均值 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Sliding%20Window/2090.K_radius_subarray_averages.md) | 数组、滑动窗口 | 中等 |
 |	2379.得到 K 个黑块的最少涂色次数 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Sliding%20Window/2379.minimum_recolors_to_get_K_consecutive_black_blocks.md) | 字符串、滑动窗口 | 简单 |
 |	2461.长度为 K 子数组中的最大和 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Sliding%20Window/2461.maximum_sum_of_distinct_subarray_with_length_K.md) | 数组、滑动窗口 | 中等 |
@@ -40,4 +42,7 @@ Solve LeetCode by JS &amp; Python
 |	2730.找到最长的半重复子字符串 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Sliding%20Window/2730.find_the_longes_Semi-Repetitive_substring.md) | 字符串、滑动窗口 | 中等 |
 |	2831.找出最长等值子数组 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Sliding%20Window/2831.find_the_longest_equal_subarray.md) | 数组、滑动窗口 | 中等 |
 |	2841.几乎唯一子数组的最大和 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Sliding%20Window/2841.maximum_sum_of_almost_unique_subarray.md) | 数组、滑动窗口 | 中等 |
+|	2875.无限数组的最短子数组 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Sliding%20Window/2875.minimum_size_subarray_in_infinite_array.md) | 数组、滑动窗口 | 中等 |
+|	2904.最短且字典序最小的美丽子字符串 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Sliding%20Window/2904.shortest_and_lexicographically_smallest_beautiful_string.md) | 字符串、滑动窗口 | 中等 |
+|	2958.最多 K 个重复元素的最长子数组 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Sliding%20Window/2958.length_of_longest_subarray_with_at_most_K_frequency.md) | 数组、滑动窗口 | 中等 |
 |	3297.统计重新排列后包含另一个字符串的子字符串数目 I | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Sliding%20Window/3297.count_substrings_that_can_be_rearranged_to_contain_a_string_I.md) | 字符串、滑动窗口 | 中等 |
