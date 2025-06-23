@@ -59,3 +59,12 @@ Solve LeetCode by JS &amp; Python
 |	27.移除元素 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Two%20Pointers/0027.remove_element.md) | 数组、双指针 | 简单 |
 |	61.旋转链表 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Two%20Pointers/0061.rotate_list.md) | 链表、双指针 | 中等 |
 |	75.颜色分类 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Two%20Pointers/0075.sort_colors.md) | 数组、双指针 | 中等 |
+|	80.删除有序数组中的重复项 II | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Two%20Pointers/0080.remove_duplicates_from_sorted_array_II.md) | 数组、双指针 | 中等 |
+|	83.删除排序链表中的重复元素 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Two%20Pointers/0083.remove_duplicates_from_sorted_list.md) | 链表、双指针 | 简单 |
+|	88.合并两个有序数组 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Two%20Pointers/0088.merge_sorted_array.md) | 数组、双指针 | 简单 |
+|	125.验证回文串 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Two%20Pointers/0125.valid_palindrome.md) | 字符串、双指针 | 简单 |
+|	0142 | Linked List Cycle II | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Two_pointers/0142.linked_list_cycle_II.md) | 链表、双指针 | 中等 |
+|	0151 | Reverse Words in a String | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Two%20Pointers/0151.reverse_words_in_a_string.md) | 字符串、双指针 | 中等 |
+|	160.相交链表 | [JS/Python](0160.intersection_of_two_linked_lists.md) | 链表、双指针 | 简单 |
+|	0167 | Two Sum II - Input Array Is Sorted | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Two_pointers/0167.two_sum_II-input_array_is_sorted.md) | 数组、双指针 | 中等 |
+|	189.轮转数组 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Two%20Pointers/0189.potate_array.md) | 数组、双指针 + 数组翻转 | 中等 |
