@@ -79,6 +79,9 @@ Solve LeetCode by JS &amp; Python
 |	210.课程表 II | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Graph/0210.course_schedule_II.md) | 拓扑排序 | 中等 |
 |	399.除法求值 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Graph/0399.evaluate_division.md) | BFS | 中等 |
 |	0417 | Pacific Atlantic Water Flow | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Graph/0417.pacific_atlantic_water_flow.md) | BFS、DFS | 中等 |
+|	0433 | Minimum Genetic Mutation | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Graph/0433.minimum_genetic_mutation.md) | BFS | 中等 |
 |	444.序列重建 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Graph/0444.sequence_reconstruction.md) | 拓扑排序 | 中等 |
 |	695.岛屿的最大面积 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Graph/0695.max_area_of_island.md) | DFS、BFS | 中等 |
 |	733.图像渲染 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Graph/0733.flood_fill.md) | DFS、BFS | 简单 |
+|	0797 | All Paths From Source to Target | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Graph/0797.all_paths_from_source_to_target.md) | DFS | 中等 |
+|	909.蛇梯棋 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Graph/0909.snakes_and_ladders.md) | BFS | 中等 |
