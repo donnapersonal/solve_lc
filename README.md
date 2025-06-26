@@ -2,6 +2,16 @@
 
 Solve LeetCode by JS &amp; Python
 
+## Binary Search
+
+| 题目 |	题解 | 标签 | 难度 |
+|	--- |	--- | --- | --- |
+|	33.搜索旋转排序数组 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Binary%20Search/0033.search_in_rotated_sorted_array.md) | 数组、二分查找 | 中等 |
+|	0034 | Find First and Last Position of Element in Sorted Array | [JS/Python](0034.find_first_and_last_position_of_element_in_sorted_array.md) | 数组、二分查找 | 中等 |
+|	35.搜索插入位置 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Binary%20Search/0035.search_insert_position.md) | 数组、二分查找 | 简单 |
+|	69.x 的平方根 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Binary%20Search/0069.sqrt(x).md) | 数学、二分查找 | 简单 |
+|	0074 | Search a 2D Matrix | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Binary%20Search/0074.search_a_2D_matrix.md) | 矩阵、二分查找 | 中等 |
+
 ## Sliding window
 
 | 题目 |	题解 | 标签 | 难度 |
