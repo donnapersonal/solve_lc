@@ -11,6 +11,9 @@ Solve LeetCode by JS &amp; Python
 |	35.搜索插入位置 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Binary%20Search/0035.search_insert_position.md) | 数组、二分查找 | 简单 |
 |	69.x 的平方根 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Binary%20Search/0069.sqrt(x).md) | 数学、二分查找 | 简单 |
 |	0074 | Search a 2D Matrix | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Binary%20Search/0074.search_a_2D_matrix.md) | 矩阵、二分查找 | 中等 |
+|	0081 | Search in Rotated Sorted Array II | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Binary%20Search/0081.search_in_rotated_sorted_array_II.md) | 数组、二分查找 | 中等 |
+|	153.寻找旋转排序数组中的最小值 | [Js/Python](https://github.com/donnapersonal/solve_lc/blob/main/Binary%20Search/0153.find_minimum_in_rotated_sorted_array.md) | 数组、二分查找 | 中等 |
+|	162.寻找峰值 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Binary%20Search/0162.find_peak_element.md) | 数组、二分查找 | 中等 |
 
 ## Sliding window
 
@@ -78,6 +81,11 @@ Solve LeetCode by JS &amp; Python
 |	160.相交链表 | [JS/Python](0160.intersection_of_two_linked_lists.md) | 链表、双指针 | 简单 |
 |	0167 | Two Sum II - Input Array Is Sorted | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Two_pointers/0167.two_sum_II-input_array_is_sorted.md) | 数组、双指针 | 中等 |
 |	189.轮转数组 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Two%20Pointers/0189.potate_array.md) | 数组、双指针 + 数组翻转 | 中等 |
+|	0234 | Palindrome Linked List | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Two%20Pointers/0234.palindrome_linked_list.md) | 链表、双指针 | 简单 |
+|	253.会议室 II | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Two%20Pointers/0253.meeting_rooms_II.md) | 数组、双指针 + 排序 | 中等 |
+|	283.移动零 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Two%20Pointers/0283.move_zeroes.md) | 数组、双指针 | 简单 |
+|	328.奇偶链表 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Two%20Pointers/0328.odd_even_linked_list.md) | 链表、双指针 | 中等 |
+|	392.判断子序列 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Two%20Pointers/0392.is_subsequence.md) | 字符串、双指针 | 简单 |
 
 ## 图论
 
@@ -93,5 +101,8 @@ Solve LeetCode by JS &amp; Python
 |	444.序列重建 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Graph/0444.sequence_reconstruction.md) | 拓扑排序 | 中等 |
 |	695.岛屿的最大面积 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Graph/0695.max_area_of_island.md) | DFS、BFS | 中等 |
 |	733.图像渲染 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Graph/0733.flood_fill.md) | DFS、BFS | 简单 |
+|	0743 | Network Delay Time | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Graph/0743.network_delay_time.md) | Dijkstra | 中等 |
 |	0797 | All Paths From Source to Target | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Graph/0797.all_paths_from_source_to_target.md) | DFS | 中等 |
 |	909.蛇梯棋 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Graph/0909.snakes_and_ladders.md) | BFS | 中等 |
+|	934.最短的桥 | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Graph/0934.shortest_bridge.md) | DFS + BFS | 中等 |
+|	0994 | Rotting Oranges | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Graph/0994.rotting_oranges.md) | BFS | 中等 |
