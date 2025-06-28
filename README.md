@@ -95,6 +95,7 @@ Solve LeetCode by JS &amp; Python
 |	200.岛屿数量 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Graph/0200.number_of_islands.md) | DFS | 中等 |
 |	0207 | Course Schedule | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Graph/0207.course_schedule.md) | 拓扑排序 | 中等 |
 |	210.课程表 II | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Graph/0210.course_schedule_II.md) | 拓扑排序 | 中等 |
+|	261.以图判树 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Graph/0261.graph_valid_tree.md) | 并查集 | 中等 |
 |	399.除法求值 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Graph/0399.evaluate_division.md) | BFS | 中等 |
 |	0417 | Pacific Atlantic Water Flow | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Graph/0417.pacific_atlantic_water_flow.md) | BFS、DFS | 中等 |
 |	0433 | Minimum Genetic Mutation | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Graph/0433.minimum_genetic_mutation.md) | BFS | 中等 |
@@ -106,3 +107,5 @@ Solve LeetCode by JS &amp; Python
 |	909.蛇梯棋 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Graph/0909.snakes_and_ladders.md) | BFS | 中等 |
 |	934.最短的桥 | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Graph/0934.shortest_bridge.md) | DFS + BFS | 中等 |
 |	0994 | Rotting Oranges | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Graph/0994.rotting_oranges.md) | BFS | 中等 |
+|	1091.二进制矩阵中的最短路径 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Graph/1091.shortest_path_in_binary_matrix.md) | BFS | 中等 |
+|	1162.地图分析 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Graph/1162.as_far_from_land_as_possible.md) | BFS | 中等 |
