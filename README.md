@@ -14,6 +14,9 @@ Solve LeetCode by JS &amp; Python
 |	0081 | Search in Rotated Sorted Array II | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Binary%20Search/0081.search_in_rotated_sorted_array_II.md) | 数组、二分查找 | 中等 |
 |	153.寻找旋转排序数组中的最小值 | [Js/Python](https://github.com/donnapersonal/solve_lc/blob/main/Binary%20Search/0153.find_minimum_in_rotated_sorted_array.md) | 数组、二分查找 | 中等 |
 |	162.寻找峰值 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Binary%20Search/0162.find_peak_element.md) | 数组、二分查找 | 中等 |
+|	0275 | H-Index II | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Binary%20Search/0275.H-Index_II.md) | 数组、二分查找 | 中等 |
+|	278.第一个错误的版本 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Binary%20Search/0278.first_bad_version.md) | 数组、二分查找 | 简单 |
+|	540.有序数组中的单一元素 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Binary%20Search/0540.single_element_in_a_sorted_array.md) | 数组、二分查找 | 中等 |
 
 ## Sliding window
 
