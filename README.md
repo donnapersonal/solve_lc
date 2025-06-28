@@ -86,6 +86,8 @@ Solve LeetCode by JS &amp; Python
 |	283.移动零 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Two%20Pointers/0283.move_zeroes.md) | 数组、双指针 | 简单 |
 |	328.奇偶链表 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Two%20Pointers/0328.odd_even_linked_list.md) | 链表、双指针 | 中等 |
 |	392.判断子序列 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Two%20Pointers/0392.is_subsequence.md) | 字符串、双指针 | 简单 |
+|	0443 | String Compression | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Two%20Pointers/0443.string_compression.md) | 字符串、双指针 | 中等 |
+|	611.有效三角形的个数 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Two%20Pointers/0611.valid_triangle_number.md) | 数组、双指针 | 中等 |
 
 ## 图论
 
