@@ -96,11 +96,14 @@ Solve LeetCode by JS &amp; Python
 
 | 题目 |	题解 | 标签 | 难度 |
 |	--- |	--- | --- | --- |
+|	127.单词接龙 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Graph/0127.word_ladder.md) | BFS | 困难 |
+|	130.被围绕的区域 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Graph/0130.surrounded_regions.md) | BFS、DFS | 中等 |
 |	133.克隆图 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Graph/0133.clone_graph.md) | BFS、DFS | 中等 |
 |	200.岛屿数量 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Graph/0200.number_of_islands.md) | DFS | 中等 |
 |	0207 | Course Schedule | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Graph/0207.course_schedule.md) | 拓扑排序 | 中等 |
 |	210.课程表 II | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Graph/0210.course_schedule_II.md) | 拓扑排序 | 中等 |
 |	261.以图判树 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Graph/0261.graph_valid_tree.md) | 并查集 | 中等 |
+|	323.无向图中连通分量的数目 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Graph/0323.number_of_connected_components_in_an_undirected_graph.md) | BFS、DFS、并查集 | 中等 |
 |	399.除法求值 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Graph/0399.evaluate_division.md) | BFS | 中等 |
 |	0417 | Pacific Atlantic Water Flow | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Graph/0417.pacific_atlantic_water_flow.md) | BFS、DFS | 中等 |
 |	0433 | Minimum Genetic Mutation | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Graph/0433.minimum_genetic_mutation.md) | BFS | 中等 |
