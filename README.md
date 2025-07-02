@@ -95,6 +95,10 @@ Solve LeetCode by JS &amp; Python
 |	392.判断子序列 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Two%20Pointers/0392.is_subsequence.md) | 字符串、双指针 | 简单 |
 |	0443 | String Compression | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Two%20Pointers/0443.string_compression.md) | 字符串、双指针 | 中等 |
 |	611.有效三角形的个数 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Two%20Pointers/0611.valid_triangle_number.md) | 数组、双指针 | 中等 |
+|	633.平方数之和 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Two%20Pointers/0633.sum_of_square_numbers.md) | 双指针 | 中等 |
+|	826.安排工作以达到最大收益 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Two%20Pointers/0826.most_profit_assigning_work.md) | 双指针 | 中等 |
+|	876.链表的中间结点 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Two%20Pointers/0876.middle_of_the_linked_list.md) | 链表、双指针 | 简单 |
+|	977.有序数组的平方 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Two%20Pointers/0977.squares_of_a_sorted_array.md) | 数组、双指针 | 简单 |
 
 ## 图论
 
