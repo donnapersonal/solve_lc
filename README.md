@@ -6,17 +6,21 @@ Solve LeetCode by JS &amp; Python
 
 | 题目 |	题解 | 标签 | 难度 |
 |	--- |	--- | --- | --- |
+|	4.寻找两个正序数组的中位数 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Binary%20Search/0004.median_of_two_sorted_arrays.md) | 数组、二分查找 | 困难 |
 |	33.搜索旋转排序数组 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Binary%20Search/0033.search_in_rotated_sorted_array.md) | 数组、二分查找 | 中等 |
-|	0034 | Find First and Last Position of Element in Sorted Array | [JS/Python](0034.find_first_and_last_position_of_element_in_sorted_array.md) | 数组、二分查找 | 中等 |
+|	34.在排序数组中查找元素的第一个和最后一个位置 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/a10b955db523914ba0638cc248006020b78635c1/Binary%20Search/0034.find_first_and_last_position_of_element_in_sorted_array.md) | 数组、二分查找 | 中等 |
 |	35.搜索插入位置 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Binary%20Search/0035.search_insert_position.md) | 数组、二分查找 | 简单 |
 |	69.x 的平方根 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Binary%20Search/0069.sqrt(x).md) | 数学、二分查找 | 简单 |
-|	0074 | Search a 2D Matrix | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Binary%20Search/0074.search_a_2D_matrix.md) | 矩阵、二分查找 | 中等 |
-|	0081 | Search in Rotated Sorted Array II | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Binary%20Search/0081.search_in_rotated_sorted_array_II.md) | 数组、二分查找 | 中等 |
+|	74.搜索二维矩阵 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/a10b955db523914ba0638cc248006020b78635c1/Binary%20Search/0074.search_a_2D_matrix.md) | 矩阵、二分查找 | 中等 |
+|	81.搜索旋转排序数组 II | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/3dd0b7e7c7821210045c448146f8f3eb8d544b2d/Binary%20Search/0081.search_in_rotated_sorted_array_II.md) | 数组、二分查找 | 中等 |
 |	153.寻找旋转排序数组中的最小值 | [Js/Python](https://github.com/donnapersonal/solve_lc/blob/main/Binary%20Search/0153.find_minimum_in_rotated_sorted_array.md) | 数组、二分查找 | 中等 |
 |	162.寻找峰值 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Binary%20Search/0162.find_peak_element.md) | 数组、二分查找 | 中等 |
-|	0275 | H-Index II | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Binary%20Search/0275.H-Index_II.md) | 数组、二分查找 | 中等 |
+|	275.H 指数 II | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Binary%20Search/0275.H-Index_II.md) | 数组、二分查找 | 中等 |
 |	278.第一个错误的版本 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Binary%20Search/0278.first_bad_version.md) | 数组、二分查找 | 简单 |
 |	540.有序数组中的单一元素 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Binary%20Search/0540.single_element_in_a_sorted_array.md) | 数组、二分查找 | 中等 |
+|	658.找到 K 个最接近的元素 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Binary%20Search/0658.find_K_closest_elements.md) | 数组、二分查找 | 中等 |
+|	704.二分查找 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Binary%20Search/0704.binary_search.md) | 数组、二分查找 | 简单 |
+|	744.寻找比目标字母大的最小字母 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Binary%20Search/0744.find_smallest_letter_greater_than_target.md) | 数组、二分查找 | 简单 |
 
 ## Sliding window
 
