@@ -21,6 +21,9 @@ Solve LeetCode by JS &amp; Python
 |	658.找到 K 个最接近的元素 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Binary%20Search/0658.find_K_closest_elements.md) | 数组、二分查找 | 中等 |
 |	704.二分查找 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Binary%20Search/0704.binary_search.md) | 数组、二分查找 | 简单 |
 |	744.寻找比目标字母大的最小字母 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Binary%20Search/0744.find_smallest_letter_greater_than_target.md) | 数组、二分查找 | 简单 |
+|	852.山脉数组的峰顶索引 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Binary%20Search/0852.peak_index_in_a_mountain_array.md) | 数组、二分查找 | 中等 |
+|	875.爱吃香蕉的珂珂 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Binary%20Search/0875.koko_eating_bananas.md) | 数组、二分查找 | 中等 |
+| 2389.和有限的最长子序列 | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Binary_search/) | 数组、二分查找 | 简单 |
 
 ## Sliding window
 
