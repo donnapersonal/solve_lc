@@ -102,6 +102,10 @@ Solve LeetCode by JS &amp; Python
 |	826.安排工作以达到最大收益 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Two%20Pointers/0826.most_profit_assigning_work.md) | 双指针 | 中等 |
 |	876.链表的中间结点 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Two%20Pointers/0876.middle_of_the_linked_list.md) | 链表、双指针 | 简单 |
 |	977.有序数组的平方 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Two%20Pointers/0977.squares_of_a_sorted_array.md) | 数组、双指针 | 简单 |
+|	986.区间列表的交集 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Two%20Pointers/0986.interval_list_intersections.md) | 数组、双指针 | 中等 |
+|	1768.交替合并字符串 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Two%20Pointers/1768.merge_strings_alternately.md) | 字符串、双指针 | 简单 |
+|	2193.得到回文串的最少操作次数 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Two%20Pointers/2193.minimum_number_of_moves_to_make_palindrome.md) | 双指针、贪心 | 困难 |
+|	3239.最少翻转次数使二进制矩阵回文 I | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Two%20Pointers/3239.minimum_number_of_flips_to_make_binary_grid_palindromic_I.md) | 矩阵、双指针 | 中等 |
 
 ## 图论
 
