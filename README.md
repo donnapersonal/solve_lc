@@ -107,6 +107,21 @@ Solve LeetCode by JS &amp; Python
 |	2193.得到回文串的最少操作次数 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Two%20Pointers/2193.minimum_number_of_moves_to_make_palindrome.md) | 双指针、贪心 | 困难 |
 |	3239.最少翻转次数使二进制矩阵回文 I | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Two%20Pointers/3239.minimum_number_of_flips_to_make_binary_grid_palindromic_I.md) | 矩阵、双指针 | 中等 |
 
+## Prefix Sum
+
+| 题目 |	题解 | 标签 | 难度 |
+|	--- |	--- | --- | --- |
+|	238.除自身以外数组的乘积 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Prefix%20Sum/0238.product_of_array_except_self.md) | 数组、前缀积 | 中等 |
+|	303.区域和检索 - 数组不可变 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Prefix%20Sum/0303.range_sum_query-immutable.md) | 数组、前缀和 | 简单 |
+|	304.二维区域和检索 - 矩阵不可变 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Prefix%20Sum/0304.range_sum_query_2D-Immutable.md) | 矩阵、数学、前缀和 | 中等 |
+
+
+## Stack
+
+| 题目 |	题解 | 标签 | 难度 |
+|	--- |	--- | --- | --- |
+|	20.有效的括号 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Stack/0020.valid_parentheses.md) | 字符串、栈 | 简单 |
+
 ## 图论
 
 | 题目 |	题解 | 标签 | 难度 |
