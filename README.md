@@ -121,6 +121,9 @@ Solve LeetCode by JS &amp; Python
 | 题目 |	题解 | 标签 | 难度 |
 |	--- |	--- | --- | --- |
 |	20.有效的括号 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Stack/0020.valid_parentheses.md) | 字符串、栈 | 简单 |
+|	71.简化路径 | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Stack/) | 字符串、栈 | 中等 |
+|	85.最大矩形 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Stack/0085.maximal_rectangle.md) | 数组、栈、单调栈 | 困难 |
+|	150.逆波兰表达式求值 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Stack/0150.evaluate_reverse_polish_notation.md) | 数组、栈 | 中等 |
 
 ## 图论
 
