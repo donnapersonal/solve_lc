@@ -142,6 +142,7 @@ Solve LeetCode by JS &amp; Python
 |	261.以图判树 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Graph/0261.graph_valid_tree.md) | 并查集 | 中等 |
 |	269.火星词典 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Graph/0269.alien_dictionary.md) | 拓扑排序 | 困难 |
 |	323.无向图中连通分量的数目 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Graph/0323.number_of_connected_components_in_an_undirected_graph.md) | BFS、DFS、并查集 | 中等 |
+|	332.重新安排行程y | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Graph/0332.reconstruct_itinerary.md) | 图论、DFS、Hierholzer’s Algorithm | 困难 |
 |	399.除法求值 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Graph/0399.evaluate_division.md) | BFS | 中等 |
 |	0417 | Pacific Atlantic Water Flow | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Graph/0417.pacific_atlantic_water_flow.md) | BFS、DFS | 中等 |
 |	0433 | Minimum Genetic Mutation | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Graph/0433.minimum_genetic_mutation.md) | BFS | 中等 |
@@ -150,8 +151,12 @@ Solve LeetCode by JS &amp; Python
 |	733.图像渲染 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Graph/0733.flood_fill.md) | DFS、BFS | 简单 |
 |	0743 | Network Delay Time | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Graph/0743.network_delay_time.md) | Dijkstra | 中等 |
 |	0797 | All Paths From Source to Target | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Graph/0797.all_paths_from_source_to_target.md) | DFS | 中等 |
+|	815.公交路线 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Graph/0815.bus_routes.md) | 图论 + BFS | 困难 |
 |	909.蛇梯棋 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Graph/0909.snakes_and_ladders.md) | BFS | 中等 |
 |	934.最短的桥 | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Graph/0934.shortest_bridge.md) | DFS + BFS | 中等 |
 |	0994 | Rotting Oranges | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Graph/0994.rotting_oranges.md) | BFS | 中等 |
 |	1091.二进制矩阵中的最短路径 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Graph/1091.shortest_path_in_binary_matrix.md) | BFS | 中等 |
 |	1162.地图分析 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Graph/1162.as_far_from_land_as_possible.md) | BFS | 中等 |
+|	1203.项目管理 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Graph/1203.sort_items_by_groups_respecting_dependencies.md) | 拓扑排序 | 困难 |
+|	1293.网格中的最短路径 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Graph/1293.Shortest_path_in_a_grid_with_obstacles_elimination.md) | BFS |困难 |
+|	1334.阈值距离内邻居最少的城市 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Graph/1334.find_the_city_with_the_smallest_number_of_neighbors_at_a_threshold_distance.md) | Floyd、Dijkstra | 中等 |

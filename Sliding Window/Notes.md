@@ -184,6 +184,38 @@ def sliding_window_template(s: str, t: str) -> str:
 | 时间复杂度 | O(n + e) | O(nα(n)) ≈ O(n) |
 | 空间复杂度 | Medium | Very clean |
 
+## 欧拉路径
+
+涉及到 `Hierholzer` 算法
+
+当被要求构建一条路径，使每条边恰好使用一次 — 这本质上是在有向图中寻找一条欧拉路径
+
+可用`DFS + 回溯`模拟 `Hierholzer` 算法（后序入栈）
+
+## Floyd 算法
+
+全源最短路：Floyd 算法
+
+Floyd-Warshall 是处理「所有点对最短路径」的经典方法，适用于 `n` 不大的`稠密图`
+
+## Dijkstra 算法
+
+单源最短路：Dijkstra 算法
+
+> - 邻接表+Dijkstra：O(n(n+m))
+> - 邻接矩阵+Dijkstra：O(n^2)
+> - 堆 + Dijkstra：O(mlogm)
+> - Bellman_Ford：O(nm)
+> - SPFA：O(km−nm)
+
+可以对每一个节点求解单源最短路，即某一个节点到其它所有节点的最短距离
+
+与 `Floyd-Warshall` 相比，`Dijkstra` 更适合`稀疏图`，节省空间与时间
+
+## 最小生成树
+
+涉及到 Kruskal 算法和 Prim 算法
+
 # 栈
 
 `括号匹配是使用栈解决的经典问题`，由于栈结构的特殊性，非常适合做对称匹配类的题目
