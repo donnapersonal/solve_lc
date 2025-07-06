@@ -131,6 +131,9 @@ Solve LeetCode by JS &amp; Python
 |	71.简化路径 | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Stack/) | 字符串、栈 | 中等 |
 |	85.最大矩形 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Stack/0085.maximal_rectangle.md) | 数组、栈、单调栈 | 困难 |
 |	150.逆波兰表达式求值 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Stack/0150.evaluate_reverse_polish_notation.md) | 数组、栈 | 中等 |
+|	155.最小栈 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Stack/0155.min_stack.md) | 设计、栈 | 中等 |
+|	224.基本计算器 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Stack/0224.basic_calculator.md) | 字符串、栈 | 困难 |
+|	227.基本计算器 II | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Stack/0227.basic_calculator_II.md) | 字符串、栈 | 中等 |
 
 ## 图论
 
