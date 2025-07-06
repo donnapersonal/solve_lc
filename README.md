@@ -25,8 +25,12 @@ Solve LeetCode by JS &amp; Python
 |	875.爱吃香蕉的珂珂 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Binary%20Search/0875.koko_eating_bananas.md) | 数组、二分查找 | 中等 |
 |	981.基于时间的键值存储 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Binary%20Search/0981.time_based_Key-Value_store.md) | 设计、二分查找 | 中等 |
 |	1011.在 D 天内送达包裹的能力 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Binary%20Search/1011.capacity_to_ship_packages_within_D_days.md) | 数组、二分查找 | 中等 |
+|	1044.最长重复子串 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Binary%20Search/1044.longest_duplicate_substrings.md) | 字符串、二分查找 + Rabin-Karp | 困难 |
 |	1760.袋子里最少数目的球 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Binary%20Search/1760.minimum_limit_of_balls_in_a_bag.md) | 数组、二分查找 | 中等 |
+|	2080.区间内查询数字的频率 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Binary%20Search/2080.range_frequency_queries.md) | 设计、二分查找 | 中等 |
+|	2187.完成旅途的最少时间 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Binary%20Search/2187.minimum_time_to_complete_trips.md) | 数组、二分查找 | 中等 |
 | 2389.和有限的最长子序列 | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Binary_search/) | 数组、二分查找 | 简单 |
+|	2563.统计公平数对的数目 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Binary%20Search/2563.count_the_number_of_fair_pairs.md) | 数组、二分查找 | 中等 |
 
 ## Sliding window
 
