@@ -135,6 +135,11 @@ Solve LeetCode by JS &amp; Python
 |	224.基本计算器 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Stack/0224.basic_calculator.md) | 字符串、栈 | 困难 |
 |	227.基本计算器 II | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Stack/0227.basic_calculator_II.md) | 字符串、栈 | 中等 |
 |	321.拼接最大数 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Stack/0321.create_maximum_number.md) | 字符串、单调栈 | 困难 |
+|	394.字符串解码 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Stack/0394.decode_string.md) | 字符串、栈 | 中等 |
+|	402.移掉 K 位数字 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Stack/0402.remove_K_digits.md) | 字符串、栈、单调栈 | 中等 |
+|	456.132 模式 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Stack/0456.132_pattern.md) | 数组、单调栈 | 中等 |
+|	496.下一个更大元素 I | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Stack/0496.next_greater_element_I.md) | 数组、栈、单调栈 | 简单 |
+|	503.下一个更大元素 II | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Stack/0503.next_greater_element_II.md) | 数组、栈、单调栈 | 中等 |
 
 ## Queue & Heap & PQ
 
