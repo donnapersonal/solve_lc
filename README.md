@@ -134,6 +134,13 @@ Solve LeetCode by JS &amp; Python
 |	155.最小栈 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Stack/0155.min_stack.md) | 设计、栈 | 中等 |
 |	224.基本计算器 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Stack/0224.basic_calculator.md) | 字符串、栈 | 困难 |
 |	227.基本计算器 II | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Stack/0227.basic_calculator_II.md) | 字符串、栈 | 中等 |
+|	321.拼接最大数 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Stack/0321.create_maximum_number.md) | 字符串、单调栈 | 困难 |
+
+## Queue & Heap & PQ
+
+| 题目 |	题解 | 标签 | 难度 |
+|	--- |	--- | --- | --- |
+|	232.用栈实现队列 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Queue_Heap_PQ/0232.implement_queue_using_stacks.md) | 设计、队列 | 简单 |
 
 ## 图论
 
