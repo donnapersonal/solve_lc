@@ -148,7 +148,10 @@ Solve LeetCode by JS &amp; Python
 
 | 题目 |	题解 | 标签 | 难度 |
 |	--- |	--- | --- | --- |
+|	225.用队列实现栈 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Queue_Heap_PQ/0225.implement_stack_using_queues.md) | 设计、队列 | 简单 |
 |	232.用栈实现队列 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Queue_Heap_PQ/0232.implement_queue_using_stacks.md) | 设计、队列 | 简单 |
+|	239.滑动窗口最大值 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Queue_Heap_PQ/0239.sliding_window_maximum.md) | 数组、队列、单调队列、优先级队列（堆）| 困难 |
+|	295.数据流的中位数 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Queue_Heap_PQ/0295.find_median_from_data_stream.md) | 设计、数组、优先级队列 | 困难 |
 
 ## 图论
 
