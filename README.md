@@ -140,6 +140,9 @@ Solve LeetCode by JS &amp; Python
 |	456.132 模式 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Stack/0456.132_pattern.md) | 数组、单调栈 | 中等 |
 |	496.下一个更大元素 I | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Stack/0496.next_greater_element_I.md) | 数组、栈、单调栈 | 简单 |
 |	503.下一个更大元素 II | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Stack/0503.next_greater_element_II.md) | 数组、栈、单调栈 | 中等 |
+|	735.小行星碰撞 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Stack/0735.asteroid_collision.md) | 数组、栈 | 中等 |
+|	739.每日温度 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Stack/0739.daily_temperatures.md) | 数组、栈、单调栈 | 中等 |
+|	856.括号的分数 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Stack/0856.score_of_parentheses.md) | 字符串、栈 | 中等 |
 
 ## Queue & Heap & PQ
 
