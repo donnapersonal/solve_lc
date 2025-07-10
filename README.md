@@ -145,6 +145,10 @@ Solve LeetCode by JS &amp; Python
 |	739.每日温度 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Stack/0739.daily_temperatures.md) | 数组、栈、单调栈 | 中等 |
 |	856.括号的分数 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Stack/0856.score_of_parentheses.md) | 字符串、栈 | 中等 |
 |	907.子数组的最小值之和 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Stack/0907.sum_of_subarray_minimums.md) | 数组、栈、单调栈 | 中等 |
+|	946.验证栈序列 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Stack/0946.validate_stack_sequences.md) | 数组、栈、单调栈 | 中等 |
+|	962.最大宽度坡 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Stack/0962.maximum_width_ramp.md) | 数组、栈、单调栈 | 中等 |
+|	1019.链表中的下一个更大节点 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Stack/1019.next_greater_node_in_linked_list.md) | 链表、单调栈 | 中等 |
+|	1249.移除无效的括号 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Stack/1249.minimum_remove_to_make_valid_parentheses.md) | 数组、栈 | 中等 |
 
 ## Queue & Heap & PQ
 
