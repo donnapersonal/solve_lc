@@ -196,3 +196,10 @@ Solve LeetCode by JS &amp; Python
 |	1203.项目管理 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Graph/1203.sort_items_by_groups_respecting_dependencies.md) | 拓扑排序 | 困难 |
 |	1293.网格中的最短路径 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Graph/1293.Shortest_path_in_a_grid_with_obstacles_elimination.md) | BFS |困难 |
 |	1334.阈值距离内邻居最少的城市 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Graph/1334.find_the_city_with_the_smallest_number_of_neighbors_at_a_threshold_distance.md) | Floyd、Dijkstra | 中等 |
+
+## 二叉树
+
+| 题目 |	题解 | 标签 | 难度 |
+|	--- |	--- | --- | --- |
+|	94.二叉树的中序遍历 | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Tree/) | 二叉树、DFS、迭代 | 简单 |
+|	100.相同的树 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Binary%20Tree/0100.same_tree.md) | 二叉树、递归 | 简单 |

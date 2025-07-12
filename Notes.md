@@ -233,3 +233,28 @@ Floyd-Warshall 是处理「所有点对最短路径」的经典方法，适用�
 - 如果更新答案时，用到的数据包含当前元素，则就需先入队，再更新答案
 - 如果用到的数据不包含当前元素，则就需要先更新答案，再入队
 - 至于出队，一般写在前面，每遍历到一个新的元素，就看看队首元素是否失效（不满足要求），失效则弹出队首
+
+# 二叉树
+
+## 递归
+
+递归本质上就是`深度优先搜索（DFS）`的一种形式
+
+> 递归法 & DFS
+> - 递归（Recursion）是一种 实现方式，它利用函数调用自身来遍历结构化数据（如树）
+> - DFS（Depth-First Search，深度优先搜索）是一种 遍历策略，指的是 先往深处走到底，再回溯，适用于树和图的遍历
+
+## Morris 中序遍历
+
+`Morris` 遍历算法是另一种遍历二叉树的方法，它能将非递归的中序遍历空间复杂度降为 `O(1)`
+
+> `Morris` 遍历使用`线索二叉树（Threaded Binary Tree）`，让树本身暂时充当栈来存储路径信息
+
+`Morris` 遍历算法整体步骤如下（假设当前遍历到的节点为 `cur`）
+- 如果 `cur` 无左孩子，先将 `cur` 的值加入答案数组，再访问 `cur` 的右孩子，即 `cur=cur.right`
+- 如果 `cur` 有左孩子，则找到 `cur` 左子树上最右的节点（即左子树中序遍历的最后一个节点，`cur` 在中序遍历中的前驱节点），记为 `predecessor`。根据 `predecessor` 的右孩子是否为空，进行如下操作
+  - 如果 `predecessor` 的右孩子为空，则将其右孩子指向 `cur`，然后访问 `cur` 的左孩子，即 `cur=cur.left`
+  - 如果 `predecessor` 的右孩子不为空，则此时其右孩子指向 `cur`，说明我们已经遍历完 `cur` 的左子树，我们将 predecessor 的右孩子置空，将 `cur` 的值加入答案数组，然后访问 `cur` 的右孩子，即 `cur=cur.right`
+- 重复上述操作，直至访问完整棵树
+
+![alt text](https://github.com/donnapersonal/picx-images-hosting/raw/master/morris.13lwj1eaxs.webp)
