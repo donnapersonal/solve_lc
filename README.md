@@ -143,7 +143,9 @@ Solve LeetCode by JS &amp; Python
 |	726.原子的数量 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Stack/0726.number_of_atoms.md) | 字符串、栈 | 困难 |
 |	735.小行星碰撞 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Stack/0735.asteroid_collision.md) | 数组、栈 | 中等 |
 |	739.每日温度 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Stack/0739.daily_temperatures.md) | 数组、栈、单调栈 | 中等 |
+|	772.基本计算器 III | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Stack/0772.basic_calculator_III.md) | 字符串、栈 | 困难 |
 |	856.括号的分数 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Stack/0856.score_of_parentheses.md) | 字符串、栈 | 中等 |
+|	895.最大频率栈 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Stack/0895.maximum_frequency_stack.md) | 设计、模拟、栈 | 困难 |
 |	907.子数组的最小值之和 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Stack/0907.sum_of_subarray_minimums.md) | 数组、栈、单调栈 | 中等 |
 |	946.验证栈序列 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Stack/0946.validate_stack_sequences.md) | 数组、栈、单调栈 | 中等 |
 |	962.最大宽度坡 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Stack/0962.maximum_width_ramp.md) | 数组、栈、单调栈 | 中等 |
