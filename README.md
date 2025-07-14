@@ -165,6 +165,9 @@ Solve LeetCode by JS &amp; Python
 |	407.接雨水 II | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Queue_Heap_PQ/0407.trapping_rain_water_II.md) | 优先级队列（最小堆）| 困难 |
 |	480.滑动窗口中位数 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Queue_Heap_PQ/0480.sliding_window_median.md) | 数组、优先级队列（堆）+ 哈希表 + 滑动窗口 | 困难 |
 |	502.IPO | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Queue_Heap_PQ/0502.IPO.md) | 数组、堆（优先级队列） | 困难 |
+|	630.课程表 III | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Queue_Heap_PQ/0630.course_schedule_III.md) | 数组、优先级队列（堆）+ 贪心 | 困难 |
+|	632.最小区间 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Queue_Heap_PQ/0632.smallest_range_covering_elements_from_K_lists.md) | 数组、堆、最小堆 | 困难 |
+|	2944.购买水果需要的最少金币数 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Queue_Heap_PQ/2944.minimum_number_of_coins_for_fruits.md) | 数组、单调队列 | 中等 |
 
 ## 图论
 
