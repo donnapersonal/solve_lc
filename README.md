@@ -121,7 +121,8 @@ Solve LeetCode by JS &amp; Python
 |	238.除自身以外数组的乘积 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Prefix%20Sum/0238.product_of_array_except_self.md) | 数组、前缀积 | 中等 |
 |	303.区域和检索 - 数组不可变 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Prefix%20Sum/0303.range_sum_query-immutable.md) | 数组、前缀和 | 简单 |
 |	304.二维区域和检索 - 矩阵不可变 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Prefix%20Sum/0304.range_sum_query_2D-Immutable.md) | 矩阵、数学、前缀和 | 中等 |
-
+|	327.区间和的个数 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Prefix%20Sum/0327.count_of_range_sum.md) | 数组、前缀和 + 归并排序 | 困难 |
+|	560.和为 K 的子数组 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Prefix%20Sum/0560.subarray_sum_equals_K.md) | 数组、前缀和 | 中等 |
 
 ## Stack
 
