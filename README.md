@@ -211,4 +211,6 @@ Solve LeetCode by JS &amp; Python
 |	95.不同的二叉搜索树 II | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Binary%20Tree/0095.unique_binary_search_trees_II.md) | 二叉树、DFS | 中等 |
 |	96.不同的二叉搜索树 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Binary%20Tree/0096.unique_binary_search_trees.md) | 二叉树、DFS+记忆化、动态规划 | 中等 |
 |	98.验证二叉搜索树 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Binary%20Tree/0098.validate_binary_search_tree.md) | 二叉树、递归、迭代 | 中等 |
+|	99.恢复二叉搜索树 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Binary%20Tree/0099.recover_binary_search_tree.md) | 二叉树、中序遍历 | 中等 |
 |	100.相同的树 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Binary%20Tree/0100.same_tree.md) | 二叉树、递归 | 简单 |
+|	101.对称二叉树 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Binary%20Tree/0101.symmetric_tree.md) | 二叉树、DFS、迭代 | 简单 |
