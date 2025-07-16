@@ -4,7 +4,7 @@ Solve LeetCode by JS &amp; Python
 
 ## Binary Search
 
-| 题目 |	题解 | 标签 | 难度 |
+| 题目 | 题解 | 标签 | 难度 |
 |	--- |	--- | --- | --- |
 |	4.寻找两个正序数组的中位数 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Binary%20Search/0004.median_of_two_sorted_arrays.md) | 数组、二分查找 | 困难 |
 |	33.搜索旋转排序数组 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Binary%20Search/0033.search_in_rotated_sorted_array.md) | 数组、二分查找 | 中等 |
@@ -34,7 +34,7 @@ Solve LeetCode by JS &amp; Python
 
 ## Sliding window
 
-| 题目 |	题解 | 标签 | 难度 |
+| 题目 | 题解 | 标签 | 难度 |
 |	--- |	--- | --- | --- |
 |	3.无重复字符的最长子串 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Sliding%20Window/0003.longest_substring_without_repeating_characters.md) | 字符串、滑动窗口 | 中等 |
 |	30.串联所有单词的子串 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Sliding%20Window/0030.substring_with_concatenation_of_all_words.md) | 字符串、滑动窗口 | 困难 |
@@ -79,7 +79,7 @@ Solve LeetCode by JS &amp; Python
 
 ## Two pointers
 
-| 题目 |	题解 | 标签 | 难度 |
+| 题目 | 题解 | 标签 | 难度 |
 |	--- |	--- | --- | --- |
 |	11.盛最多水的容器 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Two%20Pointers/0011.containe_with_most_water.md) | 数组、双指针 | 中等 |
 |	16.最接近的三数之和 | [Js/Python](https://github.com/donnapersonal/solve_lc/blob/main/Two%20Pointers/0016.3Sum_closest.md) | 数组、双指针 | 中等 |
@@ -116,7 +116,7 @@ Solve LeetCode by JS &amp; Python
 
 ## Prefix Sum
 
-| 题目 |	题解 | 标签 | 难度 |
+| 题目 | 题解 | 标签 | 难度 |
 |	--- |	--- | --- | --- |
 |	238.除自身以外数组的乘积 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Prefix%20Sum/0238.product_of_array_except_self.md) | 数组、前缀积 | 中等 |
 |	303.区域和检索 - 数组不可变 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Prefix%20Sum/0303.range_sum_query-immutable.md) | 数组、前缀和 | 简单 |
@@ -126,7 +126,7 @@ Solve LeetCode by JS &amp; Python
 
 ## Stack
 
-| 题目 |	题解 | 标签 | 难度 |
+| 题目 | 题解 | 标签 | 难度 |
 |	--- |	--- | --- | --- |
 |	20.有效的括号 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Stack/0020.valid_parentheses.md) | 字符串、栈 | 简单 |
 |	71.简化路径 | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Stack/) | 字符串、栈 | 中等 |
@@ -155,7 +155,7 @@ Solve LeetCode by JS &amp; Python
 
 ## Queue & Heap & PQ
 
-| 题目 |	题解 | 标签 | 难度 |
+| 题目 | 题解 | 标签 | 难度 |
 |	--- |	--- | --- | --- |
 |	225.用队列实现栈 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Queue_Heap_PQ/0225.implement_stack_using_queues.md) | 设计、队列 | 简单 |
 |	232.用栈实现队列 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Queue_Heap_PQ/0232.implement_queue_using_stacks.md) | 设计、队列 | 简单 |
@@ -172,7 +172,7 @@ Solve LeetCode by JS &amp; Python
 
 ## 图论
 
-| 题目 |	题解 | 标签 | 难度 |
+| 题目 | 题解 | 标签 | 难度 |
 |	--- |	--- | --- | --- |
 |	127.单词接龙 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Graph/0127.word_ladder.md) | BFS | 困难 |
 |	130.被围绕的区域 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Graph/0130.surrounded_regions.md) | BFS、DFS | 中等 |
@@ -205,7 +205,7 @@ Solve LeetCode by JS &amp; Python
 
 ## 二叉树
 
-| 题目 |	题解 | 标签 | 难度 |
+| 题目 | 题解 | 标签 | 难度 |
 |	--- |	--- | --- | --- |
 |	94.二叉树的中序遍历 | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Tree/) | 二叉树、DFS、迭代 | 简单 |
 |	95.不同的二叉搜索树 II | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Binary%20Tree/0095.unique_binary_search_trees_II.md) | 二叉树、DFS | 中等 |
@@ -214,3 +214,16 @@ Solve LeetCode by JS &amp; Python
 |	99.恢复二叉搜索树 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Binary%20Tree/0099.recover_binary_search_tree.md) | 二叉树、中序遍历 | 中等 |
 |	100.相同的树 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Binary%20Tree/0100.same_tree.md) | 二叉树、递归 | 简单 |
 |	101.对称二叉树 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Binary%20Tree/0101.symmetric_tree.md) | 二叉树、DFS、迭代 | 简单 |
+
+## 数学
+
+| 题目 | 题解 | 标签 | 难度 |
+|	--- |	--- | --- | --- |
+|	9.回文数 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Math/0009.palindrome_number.md) | 数字 | 简单 |
+
+## Greedy
+
+| 题目 | 题解 | 标签 | 难度 |
+|	--- |	--- | --- | --- |
+|	12.整数转罗马数字 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Greedy/0012.integer_to_roman.md) | 字符串、贪心 | 中等 |
+|	45.跳跃游戏 II | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Greedy/0045.jump_game_II.md) | 数组、贪心 | 中等 |
