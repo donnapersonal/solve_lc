@@ -227,3 +227,6 @@ Solve LeetCode by JS &amp; Python
 |	--- |	--- | --- | --- |
 |	12.整数转罗马数字 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Greedy/0012.integer_to_roman.md) | 字符串、贪心 | 中等 |
 |	45.跳跃游戏 II | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Greedy/0045.jump_game_II.md) | 数组、贪心 | 中等 |
+|	55.跳跃游戏 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Greedy/0055.jump_game.md) | 数组、动态规划、贪心 | 中等 |
+|	134.加油站 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Greedy/0134.gas_station.md) | 数组、贪心 | 中等 |
+|	135.分发糖果 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Greedy/0135.candy.md) | 数组、贪心 | 困难 |
