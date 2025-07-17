@@ -230,3 +230,6 @@ Solve LeetCode by JS &amp; Python
 |	55.跳跃游戏 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Greedy/0055.jump_game.md) | 数组、动态规划、贪心 | 中等 |
 |	134.加油站 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Greedy/0134.gas_station.md) | 数组、贪心 | 中等 |
 |	135.分发糖果 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Greedy/0135.candy.md) | 数组、贪心 | 困难 |
+|	406.根据身高重建队列 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Greedy/0406.queue_reconstruction_by_height.md) | 数组、贪心 | 中等 |
+|	409.最长回文串 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Greedy/0409.longest_palindrome.md) | 字符串、贪心 | 简单 |
+|	435.无重叠区间 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Greedy/0435.non-overlapping_intervals.md) | 数组、贪心 + 排序 | 中等 |
