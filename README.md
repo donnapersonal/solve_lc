@@ -219,7 +219,10 @@ Solve LeetCode by JS &amp; Python
 
 | 题目 | 题解 | 标签 | 难度 |
 |	--- |	--- | --- | --- |
+|	7.整数反转 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Math/0007.reverse_integer.md) | 数学 | Medium |
 |	9.回文数 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Math/0009.palindrome_number.md) | 数字 | 简单 |
+|	29.两数相除 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Math/0029.divide_two_integers.md) | 数学、模拟 | 中等 |
+|	50.Pow(x, n) | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Math/0050.pow(x,n).md) | 数学、快速幂 | 中等 |
 
 ## Greedy
 
