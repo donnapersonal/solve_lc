@@ -236,3 +236,7 @@ Solve LeetCode by JS &amp; Python
 |	406.根据身高重建队列 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Greedy/0406.queue_reconstruction_by_height.md) | 数组、贪心 | 中等 |
 |	409.最长回文串 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Greedy/0409.longest_palindrome.md) | 字符串、贪心 | 简单 |
 |	435.无重叠区间 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Greedy/0435.non-overlapping_intervals.md) | 数组、贪心 + 排序 | 中等 |
+|	452.用最少数量的箭引爆气球 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Greedy/0452.minimum_number_of_arrows_to_burst_balloons.md) | 数组、贪心 + 排序 | 中等 |
+|	455.分发饼干 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Greedy/0455.assign_cookies.md) | 数组、贪心 | 简单 |
+|	561.数组拆分 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Greedy/0561.array_partition.md) | 数组、贪心 | 简单 |
+|	605.种花问题 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Greedy/0605.can_place_flowers.md) | 数组、贪心 | 简单 |
