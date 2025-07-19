@@ -223,6 +223,9 @@ Solve LeetCode by JS &amp; Python
 |	9.回文数 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Math/0009.palindrome_number.md) | 数字 | 简单 |
 |	29.两数相除 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Math/0029.divide_two_integers.md) | 数学、模拟 | 中等 |
 |	50.Pow(x, n) | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Math/0050.pow(x,n).md) | 数学、快速幂 | 中等 |
+|	149.直线上最多的点数 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Math/0149.max_points_on_a_line.md) | 数学 + 哈希 | 困难 |
+|	168.Excel 表列名称 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Math/0168.excel_sheet_column_title.md) | 数学、模拟 | 简单 |
+|	258.各位相加 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Math/0258.add_digits.md) | 数学、模拟 | 简单 |
 
 ## Greedy
 
