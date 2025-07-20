@@ -245,3 +245,6 @@ Solve LeetCode by JS &amp; Python
 |	605.种花问题 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Greedy/0605.can_place_flowers.md) | 数组、贪心 | 简单 |
 |	621.任务调度器 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Greedy/0621.task_scheduler.md) | 数组、贪心 | 中等 |
 |	624.数组列表中的最大距离 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Greedy/0624.maximum_distance_in_arrays.md) | 数组、贪心 | 中等 |
+|	670.最大交换 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Greedy/0670.maximum_swap.md) | 数字、贪心 | 中等 |
+|	738.单调递增的数字 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Greedy/0738.monotone_increasing_digits.md) | 数字、贪心 | 中等 |
+|	976.三角形的最大周长 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Greedy/0976.largest_perimeter_triangle.md) | 数组、贪心 | 简单 |
