@@ -228,6 +228,8 @@ Solve LeetCode by JS &amp; Python
 |	172.阶乘后的零 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Math/0172.factorial_trailing_zeroes.md) | 数学 | 中等 |
 |	204.计数质数 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Math/0204.count_primes.md) | 数学 | 中等 |
 |	258.各位相加 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Math/0258.add_digits.md) | 数学、模拟 | 简单 |
+|	2413.最小偶倍数 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Math/2413.smallest_even_multiple.md) | 数学 | 简单 |
+|	3274.检查棋盘方格颜色是否相同 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Math/3274.check_if_two_chessboard_squares_have_the_same_color.md) | 数学 | 简单 |
 
 ## Greedy
 
@@ -250,3 +252,9 @@ Solve LeetCode by JS &amp; Python
 |	670.最大交换 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Greedy/0670.maximum_swap.md) | 数字、贪心 | 中等 |
 |	738.单调递增的数字 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Greedy/0738.monotone_increasing_digits.md) | 数字、贪心 | 中等 |
 |	976.三角形的最大周长 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Greedy/0976.largest_perimeter_triangle.md) | 数组、贪心 | 简单 |
+
+## Multiple Ideas
+
+| 题目 | 题解 | 标签 | 难度 |
+|	--- |	--- | --- | --- |
+|	233.数字 1 的个数 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Multiple_Ideas/0233.number_of_digit_one.md) | 数学、数位 DP | 困难 |
