@@ -251,6 +251,9 @@ Solve LeetCode by JS &amp; Python
 |	624.数组列表中的最大距离 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Greedy/0624.maximum_distance_in_arrays.md) | 数组、贪心 | 中等 |
 |	670.最大交换 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Greedy/0670.maximum_swap.md) | 数字、贪心 | 中等 |
 |	738.单调递增的数字 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Greedy/0738.monotone_increasing_digits.md) | 数字、贪心 | 中等 |
+|	763.划分字母区间 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Greedy/0763.partition_labels.md) | 字符串、贪心 | 中等 |
+|	767.重构字符串 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Greedy/0767.reorganize_string.md) | 字符串、贪心 | 中等 |
+|	870.优势洗牌 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Greedy/0870.advantage_shuffle.md) | 数组、贪心 | 中等 |
 |	976.三角形的最大周长 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Greedy/0976.largest_perimeter_triangle.md) | 数组、贪心 | 简单 |
 
 ## Multiple Ideas
