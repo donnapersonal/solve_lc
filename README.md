@@ -253,8 +253,11 @@ Solve LeetCode by JS &amp; Python
 |	738.单调递增的数字 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Greedy/0738.monotone_increasing_digits.md) | 数字、贪心 | 中等 |
 |	763.划分字母区间 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Greedy/0763.partition_labels.md) | 字符串、贪心 | 中等 |
 |	767.重构字符串 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Greedy/0767.reorganize_string.md) | 字符串、贪心 | 中等 |
+|	782.变为棋盘 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Greedy/0782.transform_to_chessboard.md) | 数组、哈希、贪心、位运算 | 困难 |
 |	870.优势洗牌 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Greedy/0870.advantage_shuffle.md) | 数组、贪心 | 中等 |
 |	976.三角形的最大周长 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Greedy/0976.largest_perimeter_triangle.md) | 数组、贪心 | 简单 |
+|	2116.判断一个括号字符串是否有效 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Greedy/2116.check_if_a_parentheses_string_can_be_valid.md) | 字符串、贪心 | 中等 |
+|	2160.拆分数位后四位数字的最小和 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Greedy/2160.minimum_sum_of_four_digit_number_after_splitting_digits.md) | 数字、贪心 | 简单 |
 
 ## Multiple Ideas
 
