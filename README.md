@@ -258,6 +258,7 @@ Solve LeetCode by JS &amp; Python
 |	976.三角形的最大周长 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Greedy/0976.largest_perimeter_triangle.md) | 数组、贪心 | 简单 |
 |	2116.判断一个括号字符串是否有效 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Greedy/2116.check_if_a_parentheses_string_can_be_valid.md) | 字符串、贪心 | 中等 |
 |	2160.拆分数位后四位数字的最小和 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Greedy/2160.minimum_sum_of_four_digit_number_after_splitting_digits.md) | 数字、贪心 | 简单 |
+|	2712.使所有字符相等的最小成本 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Greedy/2712.minimum_cost_to_make_all_characters_equal.md) | 字符串、贪心 | 中等 |
 
 ## Multiple Ideas
 
