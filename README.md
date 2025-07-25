@@ -124,6 +124,15 @@ Solve LeetCode by JS &amp; Python
 |	327.区间和的个数 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Prefix%20Sum/0327.count_of_range_sum.md) | 数组、前缀和 + 归并排序 | 困难 |
 |	560.和为 K 的子数组 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Prefix%20Sum/0560.subarray_sum_equals_K.md) | 数组、前缀和 | 中等 |
 
+## Scan
+
+| 题目 | 题解 | 标签 | 难度 |
+|	--- |	--- | --- | --- |
+|	13.罗马数字转整数 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Scan/0013.roman_to_integer.md) | 数组、线性扫描 | 简单 |
+|	14.最长公共前缀 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Scan/0014.longest_common_prefix.md) | 数组、垂直扫描 | 简单 |
+|	57.插入区间 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Scan/0057.insert_interval.md) | 数组、扫描 | 中等 |
+|	82.删除排序链表中的重复元素 II | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Scan/0082.remove_duplicates_from_sorted_list_II.md) | 链表、扫描 | 总等 |
+
 ## Stack
 
 | 题目 | 题解 | 标签 | 难度 |
