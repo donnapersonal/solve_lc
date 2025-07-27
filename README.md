@@ -91,6 +91,7 @@ Solve LeetCode by JS &amp; Python
 |	75.颜色分类 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Two%20Pointers/0075.sort_colors.md) | 数组、双指针 | 中等 |
 |	80.删除有序数组中的重复项 II | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Two%20Pointers/0080.remove_duplicates_from_sorted_array_II.md) | 数组、双指针 | 中等 |
 |	83.删除排序链表中的重复元素 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Two%20Pointers/0083.remove_duplicates_from_sorted_list.md) | 链表、双指针 | 简单 |
+|	86.分隔链表 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Two%20Pointers/0086.partition_list.md) | 链表、双指针 | 中等 |
 |	88.合并两个有序数组 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Two%20Pointers/0088.merge_sorted_array.md) | 数组、双指针 | 简单 |
 |	125.验证回文串 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Two%20Pointers/0125.valid_palindrome.md) | 字符串、双指针 | 简单 |
 |	0142 | Linked List Cycle II | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Two_pointers/0142.linked_list_cycle_II.md) | 链表、双指针 | 中等 |
@@ -131,7 +132,10 @@ Solve LeetCode by JS &amp; Python
 |	13.罗马数字转整数 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Scan/0013.roman_to_integer.md) | 数组、线性扫描 | 简单 |
 |	14.最长公共前缀 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Scan/0014.longest_common_prefix.md) | 数组、垂直扫描 | 简单 |
 |	57.插入区间 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Scan/0057.insert_interval.md) | 数组、扫描 | 中等 |
-|	82.删除排序链表中的重复元素 II | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Scan/0082.remove_duplicates_from_sorted_list_II.md) | 链表、扫描 | 总等 |
+|	58.最后一个单词的长度 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Scan/0058.length_of_last_word.md) | 字符串、线性扫描 | 简单 |
+|	82.删除排序链表中的重复元素 II | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Scan/0082.remove_duplicates_from_sorted_list_II.md) | 链表、扫描 | 中等 |
+|	228.汇总区间 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Scan/0228.summary_ranges.md) | 数组、线性扫描 | 简单 |
+|	414.第三大的数 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Scan/0414.third_maximum_number.md) | 数组、线性扫描 | 简单 |
 
 ## Stack
 
@@ -277,3 +281,4 @@ Solve LeetCode by JS &amp; Python
 | 题目 | 题解 | 标签 | 难度 |
 |	--- |	--- | --- | --- |
 |	233.数字 1 的个数 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Multiple_Ideas/0233.number_of_digit_one.md) | 数学、数位 DP | 困难 |
+|	2982.找出出现至少三次的最长特殊子字符串 II | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Multiple_Ideas/2982.find_longest_special_substring_that_occurs_thrice_II.md) | 字符串、二分答案、滑动窗口计数、一次遍历 | 中等 |
