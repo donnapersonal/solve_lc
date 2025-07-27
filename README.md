@@ -136,6 +136,14 @@ Solve LeetCode by JS &amp; Python
 |	82.删除排序链表中的重复元素 II | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Scan/0082.remove_duplicates_from_sorted_list_II.md) | 链表、扫描 | 中等 |
 |	228.汇总区间 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Scan/0228.summary_ranges.md) | 数组、线性扫描 | 简单 |
 |	414.第三大的数 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Scan/0414.third_maximum_number.md) | 数组、线性扫描 | 简单 |
+|	628.三个数的最大乘积 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Scan/0628.maximum_product_of_three_numbers.md) | 数组、线性扫描 | 简单 |
+|	0759 | Employee Free Time | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Scan/0759.employee_free_time.md) | 数组、扫描线法 | 困难 |
+
+## Sort
+
+| 题目 | 题解 | 标签 | 难度 |
+|	--- |	--- | --- | --- |
+
 
 ## Stack
 
@@ -251,6 +259,7 @@ Solve LeetCode by JS &amp; Python
 |	12.整数转罗马数字 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Greedy/0012.integer_to_roman.md) | 字符串、贪心 | 中等 |
 |	45.跳跃游戏 II | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Greedy/0045.jump_game_II.md) | 数组、贪心 | 中等 |
 |	55.跳跃游戏 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Greedy/0055.jump_game.md) | 数组、动态规划、贪心 | 中等 |
+|	56.合并区间 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Greedy/0056.merge_intervals.md) | 数组、排序 | 中等 |
 |	134.加油站 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Greedy/0134.gas_station.md) | 数组、贪心 | 中等 |
 |	135.分发糖果 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Greedy/0135.candy.md) | 数组、贪心 | 困难 |
 |	406.根据身高重建队列 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Greedy/0406.queue_reconstruction_by_height.md) | 数组、贪心 | 中等 |
