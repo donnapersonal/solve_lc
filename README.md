@@ -143,7 +143,9 @@ Solve LeetCode by JS &amp; Python
 
 | 题目 | 题解 | 标签 | 难度 |
 |	--- |	--- | --- | --- |
-
+|	147.对链表进行插入排序 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Sort/0147.insertion_sort_list.md) | 链表、插入排序 | 中等 |
+|	148.排序链表 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Sort/0148.sort_list.md) | 链表、归并排序 | 中等 |
+| 179.最大数 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Sort/0179.largest_number.md) | 数组、排序 | 中等 |
 
 ## Stack
 
