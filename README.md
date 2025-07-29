@@ -146,6 +146,15 @@ Solve LeetCode by JS &amp; Python
 |	147.对链表进行插入排序 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Sort/0147.insertion_sort_list.md) | 链表、插入排序 | 中等 |
 |	148.排序链表 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Sort/0148.sort_list.md) | 链表、归并排序 | 中等 |
 | 179.最大数 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Sort/0179.largest_number.md) | 数组、排序 | 中等 |
+| 252.会议室 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Sort/0252.meeting_rooms.md) | 数组、排序 | 简单 |
+|	315.计算右侧小于当前元素的个数 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Sort/0315.count_of_smaller_numbers_after_self.md) | 数组、归并排序 | 困难 |
+
+## Bit
+
+| 题目 | 题解 | 标签 | 难度 |
+|	--- |	--- | --- | --- |
+|	136.只出现一次的数字 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Bit/0136.single_number.md) | 数组、位运算 | 简单 |
+|	190.颠倒二进制位 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Bit/0190.reverse_bits.md) | 位运算 | 简单 |
 
 ## Stack
 
