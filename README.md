@@ -148,6 +148,8 @@ Solve LeetCode by JS &amp; Python
 | 179.最大数 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Sort/0179.largest_number.md) | 数组、排序 | 中等 |
 | 252.会议室 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Sort/0252.meeting_rooms.md) | 数组、排序 | 简单 |
 |	315.计算右侧小于当前元素的个数 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Sort/0315.count_of_smaller_numbers_after_self.md) | 数组、归并排序 | 困难 |
+|	493.翻转对 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Sort/0493.reverse_pairs.md) | 数组、归并排序 | 困难 |
+|	912.排序数组 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Sort/0912.sort_an_array.md) | 数组、排序 | 中等 |
 
 ## Bit
 
