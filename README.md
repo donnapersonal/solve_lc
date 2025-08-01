@@ -155,8 +155,12 @@ Solve LeetCode by JS &amp; Python
 
 | 题目 | 题解 | 标签 | 难度 |
 |	--- |	--- | --- | --- |
+|	89.格雷编码 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Bit/0089.gray_code.md) | 数字、位运算 | 中等 |
 |	136.只出现一次的数字 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Bit/0136.single_number.md) | 数组、位运算 | 简单 |
+|	137.只出现一次的数字 II | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Bit/0137.single_number_II.md) | 数组、位运算 | 中等 |
 |	190.颠倒二进制位 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Bit/0190.reverse_bits.md) | 位运算 | 简单 |
+|	191.位 1 的个数 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Bit/0191.number_of_1_bits.md) | 位运算 | 简单 |
+|	201.数字范围按位与 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Bit/0201.bitwise_AND_of_numbers_range.md) | 位运算 | 中等 |
 
 ## Stack
 
