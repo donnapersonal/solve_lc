@@ -252,6 +252,9 @@ Solve LeetCode by JS &amp; Python
 |	99.恢复二叉搜索树 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Binary%20Tree/0099.recover_binary_search_tree.md) | 二叉树、中序遍历 | 中等 |
 |	100.相同的树 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Binary%20Tree/0100.same_tree.md) | 二叉树、递归 | 简单 |
 |	101.对称二叉树 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Binary%20Tree/0101.symmetric_tree.md) | 二叉树、DFS、迭代 | 简单 |
+|	102.二叉树的层序遍历 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Binary%20Tree/0102.binary_tree_level_order_traversal.md) | 二叉树、BFS | 中等 |
+|	103.二叉树的锯齿形层序遍历 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Binary%20Tree/0103.binary_tree_zigzag_level_order_traversal.md) | 二叉树、层次遍历 | 中等 |
+|	104.二叉树的最大深度 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Binary%20Tree/0104.maximum_depth_of_binary_tree.md) | 二叉树、层次遍历、递归 | 简单 |
 
 ## 数学
 
