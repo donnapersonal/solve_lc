@@ -255,6 +255,8 @@ Solve LeetCode by JS &amp; Python
 |	102.二叉树的层序遍历 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Binary%20Tree/0102.binary_tree_level_order_traversal.md) | 二叉树、BFS | 中等 |
 |	103.二叉树的锯齿形层序遍历 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Binary%20Tree/0103.binary_tree_zigzag_level_order_traversal.md) | 二叉树、层次遍历 | 中等 |
 |	104.二叉树的最大深度 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Binary%20Tree/0104.maximum_depth_of_binary_tree.md) | 二叉树、层次遍历、递归 | 简单 |
+|	105.从前序与中序遍历序列构造二叉树 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Binary%20Tree/0105.construct_binary_tree_from_preorder_and_inorder_traversal.md) | 二叉树、递归 | 中等 |
+|	106.从中序与后序遍历序列构造二叉树 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Binary%20Tree/0106.construct_binary_tree_from_inorder_and_postorder_traversal.md) | 二叉树、递归、迭代 | 中等 |
 
 ## 数学
 
@@ -304,6 +306,12 @@ Solve LeetCode by JS &amp; Python
 |	2712.使所有字符相等的最小成本 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Greedy/2712.minimum_cost_to_make_all_characters_equal.md) | 字符串、贪心 | 中等 |
 |	2829.k-avoiding 数组的最小总和 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Greedy/2829.determine_the_minimum_sum_of_a_k-avoiding_array.md) | 贪心、数学 | 中等 |
 |	3191.使二进制数组全部等于 1 的最少操作次数 I | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Greedy/3191.minimum_operations_to_make_binary_array_elements_equal_to_one_I.md) | 数组、贪心 | 中等 |
+
+## Backtracking
+
+| 题目 | 题解 | 标签 | 难度 |
+|	--- |	--- | --- | --- |
+|	17.电话号码的字母组合 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Backtracking/0017.letter_combinations_of_a_phone_number.md) | 组合、回溯 | 中等 |
 
 ## Multiple Ideas
 
