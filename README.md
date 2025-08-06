@@ -312,6 +312,8 @@ Solve LeetCode by JS &amp; Python
 | 题目 | 题解 | 标签 | 难度 |
 |	--- |	--- | --- | --- |
 |	17.电话号码的字母组合 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Backtracking/0017.letter_combinations_of_a_phone_number.md) | 组合、回溯 | 中等 |
+|	22.括号生成 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Backtracking/0022.generate_parentheses.md) | 组合、回溯 | 中等 |
+|	0039 | Combination Sum | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Backtracking/0039.combination_sum.md) | 组合、回溯 | 中等 |
 
 ## Multiple Ideas
 
