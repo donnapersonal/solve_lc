@@ -314,6 +314,8 @@ Solve LeetCode by JS &amp; Python
 |	17.电话号码的字母组合 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Backtracking/0017.letter_combinations_of_a_phone_number.md) | 组合、回溯 | 中等 |
 |	22.括号生成 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Backtracking/0022.generate_parentheses.md) | 组合、回溯 | 中等 |
 |	0039 | Combination Sum | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Backtracking/0039.combination_sum.md) | 组合、回溯 | 中等 |
+|	40.组合总和 II | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Backtracking/0040.combination_sum_II.md) | 组合、回溯 | 中等 |
+|	46.全排列 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Backtracking/0046.permutations.md) | 排列、回溯 | 中等 |
 
 ## Multiple Ideas
 
