@@ -316,6 +316,8 @@ Solve LeetCode by JS &amp; Python
 |	0039 | Combination Sum | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Backtracking/0039.combination_sum.md) | 组合、回溯 | 中等 |
 |	40.组合总和 II | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Backtracking/0040.combination_sum_II.md) | 组合、回溯 | 中等 |
 |	46.全排列 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Backtracking/0046.permutations.md) | 排列、回溯 | 中等 |
+|	47.全排列 II | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Backtracking/0047.permutations_II.md) | 排列、回溯 | 中等 |
+|	77.组合 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Backtracking/0077.combinations.md) | 组合、回溯 | 中等 |
 
 ## Multiple Ideas
 
