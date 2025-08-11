@@ -318,6 +318,8 @@ Solve LeetCode by JS &amp; Python
 |	46.全排列 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Backtracking/0046.permutations.md) | 排列、回溯 | 中等 |
 |	47.全排列 II | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Backtracking/0047.permutations_II.md) | 排列、回溯 | 中等 |
 |	77.组合 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Backtracking/0077.combinations.md) | 组合、回溯 | 中等 |
+|	78.子集 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Backtracking/0078.subsets.md) | 子集、回溯 | 中等 |
+|	79.单词搜索 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Backtracking/0079.word_search.md) | 矩阵、回溯 | 中等 |
 
 ## Multiple Ideas
 
