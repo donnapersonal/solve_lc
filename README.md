@@ -320,6 +320,9 @@ Solve LeetCode by JS &amp; Python
 |	77.组合 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Backtracking/0077.combinations.md) | 组合、回溯 | 中等 |
 |	78.子集 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Backtracking/0078.subsets.md) | 子集、回溯 | 中等 |
 |	79.单词搜索 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Backtracking/0079.word_search.md) | 矩阵、回溯 | 中等 |
+|	90.子集 II | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Backtracking/0090.subsets_II.md) | 子集、回溯 | 中等 |
+|	93.复原 IP 地址 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Backtracking/0093.restore_IP_addresses.md) | 分割、回溯 | 中等 |
+|	131.分割回文串 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Backtracking/0131.palindrome_partitioning.md) | 分割、回溯 | 中等 |
 
 ## Multiple Ideas
 
