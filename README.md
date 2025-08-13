@@ -323,6 +323,10 @@ Solve LeetCode by JS &amp; Python
 |	90.子集 II | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Backtracking/0090.subsets_II.md) | 子集、回溯 | 中等 |
 |	93.复原 IP 地址 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Backtracking/0093.restore_IP_addresses.md) | 分割、回溯 | 中等 |
 |	131.分割回文串 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Backtracking/0131.palindrome_partitioning.md) | 分割、回溯 | 中等 |
+|	216.组合总和 III | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Backtracking/0216.ombination_sum_III.md) | 组合、回溯 | 中等 |
+|	254.因子的组合 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Backtracking/0254.factor_combinations.md) | 组合、回溯 | 中等 |
+|	320.列举单词的全部缩写 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Backtracking/0320.generalized_abbreviation.md) | 字符串、回溯 | 中等 |
+|	473.火柴拼正方形 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Backtracking/0473.matchsticks_to_square.md) | 数组、回溯 | 中等 |
 
 ## Multiple Ideas
 
