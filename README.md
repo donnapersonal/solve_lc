@@ -327,6 +327,8 @@ Solve LeetCode by JS &amp; Python
 |	254.因子的组合 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Backtracking/0254.factor_combinations.md) | 组合、回溯 | 中等 |
 |	320.列举单词的全部缩写 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Backtracking/0320.generalized_abbreviation.md) | 字符串、回溯 | 中等 |
 |	473.火柴拼正方形 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Backtracking/0473.matchsticks_to_square.md) | 数组、回溯 | 中等 |
+|	491.非递减子序列 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Backtracking/0491.non-decreasing_subsequences.md) | 排列组合，回溯 | 中等 |
+|	784.字母大小写全排列 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Backtracking/0784.letter_case_permutation.md) | 字符串、回溯 | 中等 |
 
 ## Multiple Ideas
 
