@@ -313,7 +313,8 @@ Solve LeetCode by JS &amp; Python
 |	--- |	--- | --- | --- |
 |	17.电话号码的字母组合 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Backtracking/0017.letter_combinations_of_a_phone_number.md) | 组合、回溯 | 中等 |
 |	22.括号生成 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Backtracking/0022.generate_parentheses.md) | 组合、回溯 | 中等 |
-|	0039 | Combination Sum | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Backtracking/0039.combination_sum.md) | 组合、回溯 | 中等 |
+|	37.解数独 | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Backtracking/) | 数独、回溯 | 中等 |
+|	39.组合总和 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Backtracking/0039.combination_sum.md) | 组合、回溯 | 中等 |
 |	40.组合总和 II | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Backtracking/0040.combination_sum_II.md) | 组合、回溯 | 中等 |
 |	46.全排列 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Backtracking/0046.permutations.md) | 排列、回溯 | 中等 |
 |	47.全排列 II | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Backtracking/0047.permutations_II.md) | 排列、回溯 | 中等 |
@@ -329,6 +330,7 @@ Solve LeetCode by JS &amp; Python
 |	473.火柴拼正方形 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Backtracking/0473.matchsticks_to_square.md) | 数组、回溯 | 中等 |
 |	491.非递减子序列 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Backtracking/0491.non-decreasing_subsequences.md) | 排列组合，回溯 | 中等 |
 |	784.字母大小写全排列 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Backtracking/0784.letter_case_permutation.md) | 字符串、回溯 | 中等 |
+|	1593.拆分字符串使唯一子字符串的数目最大 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Backtracking/1593.split_a_string_into_the_max_number_of_unique_substrings.md) | 字符串、回溯 | 中等 |
 
 ## Multiple Ideas
 
