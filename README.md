@@ -257,7 +257,10 @@ Solve LeetCode by JS &amp; Python
 |	104.二叉树的最大深度 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Binary%20Tree/0104.maximum_depth_of_binary_tree.md) | 二叉树、层次遍历、递归 | 简单 |
 |	105.从前序与中序遍历序列构造二叉树 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Binary%20Tree/0105.construct_binary_tree_from_preorder_and_inorder_traversal.md) | 二叉树、递归 | 中等 |
 |	106.从中序与后序遍历序列构造二叉树 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Binary%20Tree/0106.construct_binary_tree_from_inorder_and_postorder_traversal.md) | 二叉树、递归、迭代 | 中等 |
+|	108.将有序数组转换为二叉搜索树 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Binary%20Tree/0108.convert_sorted_array_to_binary_search_tree.md) | 二叉树、递归、迭代 | 简单 |
+|	114.二叉树展开为链表 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Binary%20Tree/0114.flatten_binary_tree_to_linked_list.md) | 二叉树、递归、迭代 | 中等 |
 |	124.二叉树中的最大路径和 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Binary%20Tree/0124.binary_tree_maximum_path_sum.md) | 二叉树、深度优先搜索 | 困难 |
+|	199.二叉树的右视图 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Binary%20Tree/0199.binary_tree_right_side_view.md) | 二叉树、BFS、DFS | 中等 |
 
 ## 数学
 
@@ -339,5 +342,12 @@ Solve LeetCode by JS &amp; Python
 
 | 题目 | 题解 | 标签 | 难度 |
 |	--- |	--- | --- | --- |
+
+
+## Multiple Ideas
+
+| 题目 | 题解 | 标签 | 难度 |
+|	--- |	--- | --- | --- |
+|	5.最长回文子串 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Multiple_Ideas/0005.longest_palindromic_substring.md) | 字符串、中心扩展法、Manacher's algorithm | 中等 |
 |	233.数字 1 的个数 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Multiple_Ideas/0233.number_of_digit_one.md) | 数学、数位 DP | 困难 |
 |	2982.找出出现至少三次的最长特殊子字符串 II | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Multiple_Ideas/2982.find_longest_special_substring_that_occurs_thrice_II.md) | 字符串、二分答案、滑动窗口计数、一次遍历 | 中等 |
