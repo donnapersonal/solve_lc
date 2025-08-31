@@ -261,6 +261,8 @@ Solve LeetCode by JS &amp; Python
 |	114.二叉树展开为链表 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Binary%20Tree/0114.flatten_binary_tree_to_linked_list.md) | 二叉树、递归、迭代 | 中等 |
 |	124.二叉树中的最大路径和 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Binary%20Tree/0124.binary_tree_maximum_path_sum.md) | 二叉树、深度优先搜索 | 困难 |
 |	199.二叉树的右视图 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Binary%20Tree/0199.binary_tree_right_side_view.md) | 二叉树、BFS、DFS | 中等 |
+|	226.翻转二叉树 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Binary%20Tree/0226.invert_binary_tree.md) | 二叉树、BFS、DFS | 简单 |
+|	230.二叉搜索树中第 K 小的元素 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Binary%20Tree/0230.Kth_smallest_element_in_a_BST.md) | 二叉树、递归、迭代 | 中等 |
 
 ## 数学
 
@@ -338,10 +340,11 @@ Solve LeetCode by JS &amp; Python
 |	784.字母大小写全排列 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Backtracking/0784.letter_case_permutation.md) | 字符串、回溯 | 中等 |
 |	1593.拆分字符串使唯一子字符串的数目最大 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Backtracking/1593.split_a_string_into_the_max_number_of_unique_substrings.md) | 字符串、回溯 | 中等 |
 
-## Multiple Ideas
+## Dynamic Programming
 
 | 题目 | 题解 | 标签 | 难度 |
 |	--- |	--- | --- | --- |
+|	64.最小路径和 | [Js/Python](https://github.com/donnapersonal/solve_lc/blob/main/Dynamic%20Programming/0064.minimum_path_sum.md) | 矩阵、动态规划 | 中等 |
 
 
 ## Multiple Ideas
@@ -349,5 +352,6 @@ Solve LeetCode by JS &amp; Python
 | 题目 | 题解 | 标签 | 难度 |
 |	--- |	--- | --- | --- |
 |	5.最长回文子串 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Multiple_Ideas/0005.longest_palindromic_substring.md) | 字符串、中心扩展法、Manacher's algorithm | 中等 |
+|	62.不同路径 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Multiple_Ideas/0062.unique_paths.md) | 矩阵、数学、网格图 DP、组合数学 | 中等 |
 |	233.数字 1 的个数 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Multiple_Ideas/0233.number_of_digit_one.md) | 数学、数位 DP | 困难 |
 |	2982.找出出现至少三次的最长特殊子字符串 II | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Multiple_Ideas/2982.find_longest_special_substring_that_occurs_thrice_II.md) | 字符串、二分答案、滑动窗口计数、一次遍历 | 中等 |
