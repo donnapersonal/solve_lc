@@ -263,6 +263,8 @@ Solve LeetCode by JS &amp; Python
 |	199.二叉树的右视图 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Binary%20Tree/0199.binary_tree_right_side_view.md) | 二叉树、BFS、DFS | 中等 |
 |	226.翻转二叉树 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Binary%20Tree/0226.invert_binary_tree.md) | 二叉树、BFS、DFS | 简单 |
 |	230.二叉搜索树中第 K 小的元素 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Binary%20Tree/0230.Kth_smallest_element_in_a_BST.md) | 二叉树、递归、迭代 | 中等 |
+|	236.二叉树的最近公共祖先 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Binary%20Tree/0236.lowest_common_ancestor_of_a_binary_tree.md) | 二叉树、递归、迭代 | 中等 |
+|	437.路径总和 III | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Binary%20Tree/0437.path_sum_III.md) | 二叉树、DFS | 中等 |
 
 ## 数学
 
@@ -345,6 +347,7 @@ Solve LeetCode by JS &amp; Python
 | 题目 | 题解 | 标签 | 难度 |
 |	--- |	--- | --- | --- |
 |	64.最小路径和 | [Js/Python](https://github.com/donnapersonal/solve_lc/blob/main/Dynamic%20Programming/0064.minimum_path_sum.md) | 矩阵、动态规划 | 中等 |
+|	70.爬楼梯 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Dynamic%20Programming/0070.climbing_stairs.md) | 动态规划 | 简单 |
 
 
 ## Multiple Ideas
