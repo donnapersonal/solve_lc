@@ -350,6 +350,8 @@ Solve LeetCode by JS &amp; Python
 |	64.最小路径和 | [Js/Python](https://github.com/donnapersonal/solve_lc/blob/main/Dynamic%20Programming/0064.minimum_path_sum.md) | 矩阵、动态规划 | 中等 |
 |	70.爬楼梯 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Dynamic%20Programming/0070.climbing_stairs.md) | 动态规划 | 简单 |
 |	72.编辑距离 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Dynamic%20Programming/0072.edit_distance.md) | 字符串、动态规划 | 中等 |
+|	139.单词拆分 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Dynamic%20Programming/0139.word_break.md) | 动态规划 | 中等 |
+|	152.乘积最大子数组 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Dynamic%20Programming/0152.maximum_product_subarray.md) | 数组、动态规划 | 中等 |
 
 ## Multiple Ideas
 
@@ -357,5 +359,6 @@ Solve LeetCode by JS &amp; Python
 |	--- |	--- | --- | --- |
 |	5.最长回文子串 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Multiple_Ideas/0005.longest_palindromic_substring.md) | 字符串、中心扩展法、Manacher's algorithm | 中等 |
 |	62.不同路径 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Multiple_Ideas/0062.unique_paths.md) | 矩阵、数学、网格图 DP、组合数学 | 中等 |
+|	118.杨辉三角 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Multiple_Ideas/0118.pascal's_triangle.md) | 数学、动态规划、递归、迭代 | 简单 |
 |	233.数字 1 的个数 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Multiple_Ideas/0233.number_of_digit_one.md) | 数学、数位 DP | 困难 |
 |	2982.找出出现至少三次的最长特殊子字符串 II | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Multiple_Ideas/2982.find_longest_special_substring_that_occurs_thrice_II.md) | 字符串、二分答案、滑动窗口计数、一次遍历 | 中等 |
