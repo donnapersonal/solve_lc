@@ -115,6 +115,13 @@ Solve LeetCode by JS &amp; Python
 |	2193.得到回文串的最少操作次数 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Two%20Pointers/2193.minimum_number_of_moves_to_make_palindrome.md) | 双指针、贪心 | 困难 |
 |	3239.最少翻转次数使二进制矩阵回文 I | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Two%20Pointers/3239.minimum_number_of_flips_to_make_binary_grid_palindromic_I.md) | 矩阵、双指针 | 中等 |
 
+## Hashing
+
+| 题目 | 题解 | 标签 | 难度 |
+|	--- |	--- | --- | --- |
+|	1.两数之和 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Hashing/0001.two_sum.md) | 数组、哈希表 | 简单 |
+|	49.字母异位词分组 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Hashing/0049.group_anagrams.md) | 数组、哈希表 | 中等 |
+
 ## Prefix Sum
 
 | 题目 | 题解 | 标签 | 难度 |
@@ -364,6 +371,7 @@ Solve LeetCode by JS &amp; Python
 |	32.最长有效括号 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Multiple_Ideas/0032.longest_valid_parentheses.md) | 字符串、栈、动态规划、贪心 | 困难 |
 |	62.不同路径 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Multiple_Ideas/0062.unique_paths.md) | 矩阵、数学、网格图 DP、组合数学 | 中等 |
 |	118.杨辉三角 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Multiple_Ideas/0118.pascal's_triangle.md) | 数学、动态规划、递归、迭代 | 简单 |
+|	121.买卖股票的最佳时机 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Multiple_Ideas/0121.best_time_to_buy_and_sell_stock.md) | 数组、递推、DP | 简单 |
 |	233.数字 1 的个数 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Multiple_Ideas/0233.number_of_digit_one.md) | 数学、数位 DP | 困难 |
 |	279.完全平方数 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Multiple_Ideas/0279.perfect_squares.md) | 数学、BFS、动态优化 | 中等 |
 |	300.最长递增子序列 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Multiple_Ideas/0300.longest_increasing_subsequence.md) | 动态规划、贪心+二分查找 | 中等 |
