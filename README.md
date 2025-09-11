@@ -121,6 +121,7 @@ Solve LeetCode by JS &amp; Python
 |	--- |	--- | --- | --- |
 |	1.两数之和 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Hashing/0001.two_sum.md) | 数组、哈希表 | 简单 |
 |	49.字母异位词分组 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Hashing/0049.group_anagrams.md) | 数组、哈希表 | 中等 |
+|	128.最长连续序列 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Hashing/0128.longest_consecutive_sequence.md) | 数组、哈希表 | 中等 |
 
 ## Prefix Sum
 
