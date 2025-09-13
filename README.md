@@ -378,4 +378,5 @@ Solve LeetCode by JS &amp; Python
 |	279.完全平方数 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Multiple_Ideas/0279.perfect_squares.md) | 数学、BFS、动态优化 | 中等 |
 |	300.最长递增子序列 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Multiple_Ideas/0300.longest_increasing_subsequence.md) | 动态规划、贪心+二分查找 | 中等 |
 |	322.零钱兑换 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Multiple_Ideas/0322.coin_change.md) | 动态规划、BFS | 中等 |
+|	347.前 K 个高频元素 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Multiple_Ideas/0347.top_K_frequent_elements.md) | 数组、哈希表、优先级队列 | 中等 |
 |	2982.找出出现至少三次的最长特殊子字符串 II | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Multiple_Ideas/2982.find_longest_special_substring_that_occurs_thrice_II.md) | 字符串、二分答案、滑动窗口计数、一次遍历 | 中等 |
