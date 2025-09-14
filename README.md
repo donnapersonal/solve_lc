@@ -170,6 +170,12 @@ Solve LeetCode by JS &amp; Python
 |	191.位 1 的个数 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Bit/0191.number_of_1_bits.md) | 位运算 | 简单 |
 |	201.数字范围按位与 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Bit/0201.bitwise_AND_of_numbers_range.md) | 位运算 | 中等 |
 
+## 模拟/设计
+
+| 题目 | 题解 | 标签 | 难度 |
+|	--- |	--- | --- | --- |
+|	2.两数相加 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Simulation_Design/0002.add_two_numbers.md) | 链表、模拟 | 中等 |
+
 ## Stack
 
 | 题目 | 题解 | 标签 | 难度 |
