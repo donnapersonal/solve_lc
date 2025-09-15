@@ -375,6 +375,9 @@ Solve LeetCode by JS &amp; Python
 | 题目 | 题解 | 标签 | 难度 |
 |	--- |	--- | --- | --- |
 |	5.最长回文子串 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Multiple_Ideas/0005.longest_palindromic_substring.md) | 字符串、中心扩展法、Manacher's algorithm | 中等 |
+|	19.删除链表的倒数第 N 个结点 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Multiple_Ideas/0019.remove_Nth_node_from_end_of_list.md) | 链表、双指针、递归 | 中等 |
+|	23.合并 K 个升序链表 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Multiple_Ideas/0023.merge_k_sorted_lists.md) | 链表、双指针、分治、优先级队列（堆）、归并排序 | 困难 |
+|	24.两两交换链表中的节点 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Multiple_Ideas/0024.swap_nodes_in_pairs.md) | 链表、递归、迭代 | 中等 |
 |	32.最长有效括号 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Multiple_Ideas/0032.longest_valid_parentheses.md) | 字符串、栈、动态规划、贪心 | 困难 |
 |	62.不同路径 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Multiple_Ideas/0062.unique_paths.md) | 矩阵、数学、网格图 DP、组合数学 | 中等 |
 |	118.杨辉三角 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Multiple_Ideas/0118.pascal's_triangle.md) | 数学、动态规划、递归、迭代 | 简单 |
