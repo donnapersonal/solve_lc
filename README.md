@@ -96,7 +96,7 @@ Solve LeetCode by JS &amp; Python
 |	125.验证回文串 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Two%20Pointers/0125.valid_palindrome.md) | 字符串、双指针 | 简单 |
 |	0142 | Linked List Cycle II | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Two_pointers/0142.linked_list_cycle_II.md) | 链表、双指针 | 中等 |
 |	0151 | Reverse Words in a String | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Two%20Pointers/0151.reverse_words_in_a_string.md) | 字符串、双指针 | 中等 |
-|	160.相交链表 | [JS/Python](0160.intersection_of_two_linked_lists.md) | 链表、双指针 | 简单 |
+|	160.相交链表 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/8589cf5abb783b9fc3b813e3e92ce4934475614e/Two%20Pointers/0160.intersection_of_two_linked_lists.md) | 链表、双指针 | 简单 |
 |	0167 | Two Sum II - Input Array Is Sorted | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Two_pointers/0167.two_sum_II-input_array_is_sorted.md) | 数组、双指针 | 中等 |
 |	189.轮转数组 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Two%20Pointers/0189.potate_array.md) | 数组、双指针 + 数组翻转 | 中等 |
 |	0234 | Palindrome Linked List | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Two%20Pointers/0234.palindrome_linked_list.md) | 链表、双指针 | 简单 |
@@ -175,6 +175,7 @@ Solve LeetCode by JS &amp; Python
 | 题目 | 题解 | 标签 | 难度 |
 |	--- |	--- | --- | --- |
 |	2.两数相加 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Simulation_Design/0002.add_two_numbers.md) | 链表、模拟 | 中等 |
+|	146.LRU 缓存 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Simulation_Design/0146.LRU_cache.md) | 设计、数据结构 | 中等 |
 
 ## Stack
 
