@@ -385,6 +385,7 @@ Solve LeetCode by JS &amp; Python
 |	121.买卖股票的最佳时机 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Multiple_Ideas/0121.best_time_to_buy_and_sell_stock.md) | 数组、递推、DP | 简单 |
 |	138.随机链表的复制 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Multiple_Ideas/0138.copy_list_with_random_pointer.md) | 链表、哈希、DFS、原地修改 | 中等 |
 |	0141 | Linked List Cycle | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Multiple_Ideas/0141.linked_list_cycle.md) | 链表、哈希表、双指针 | 简单 |
+|	206.反转链表 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Multiple_Ideas/0206.reverse_linked_list.md) | 链表、迭代、递归 | 简单 |
 |	215.数组中的第K个最大元素 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Multiple_Ideas/0215.Kth_largest_element_in_an_array.md) | 数组、优先级队列（堆）、快速排序 | 中等 |
 |	233.数字 1 的个数 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Multiple_Ideas/0233.number_of_digit_one.md) | 数学、数位 DP | 困难 |
 |	279.完全平方数 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Multiple_Ideas/0279.perfect_squares.md) | 数学、BFS、动态优化 | 中等 |
