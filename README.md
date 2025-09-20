@@ -99,7 +99,7 @@ Solve LeetCode by JS &amp; Python
 |	160.相交链表 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/8589cf5abb783b9fc3b813e3e92ce4934475614e/Two%20Pointers/0160.intersection_of_two_linked_lists.md) | 链表、双指针 | 简单 |
 |	0167 | Two Sum II - Input Array Is Sorted | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Two_pointers/0167.two_sum_II-input_array_is_sorted.md) | 数组、双指针 | 中等 |
 |	189.轮转数组 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Two%20Pointers/0189.potate_array.md) | 数组、双指针 + 数组翻转 | 中等 |
-|	0234 | Palindrome Linked List | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Two%20Pointers/0234.palindrome_linked_list.md) | 链表、双指针 | 简单 |
+|	234.回文链表 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/3dd0b7e7c7821210045c448146f8f3eb8d544b2d/Two%20Pointers/0234.palindrome_linked_list.md) | 链表、双指针 | 简单 |
 |	253.会议室 II | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Two%20Pointers/0253.meeting_rooms_II.md) | 数组、双指针 + 排序 | 中等 |
 |	283.移动零 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Two%20Pointers/0283.move_zeroes.md) | 数组、双指针 | 简单 |
 |	328.奇偶链表 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Two%20Pointers/0328.odd_even_linked_list.md) | 链表、双指针 | 中等 |
@@ -175,6 +175,7 @@ Solve LeetCode by JS &amp; Python
 | 题目 | 题解 | 标签 | 难度 |
 |	--- |	--- | --- | --- |
 |	2.两数相加 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Simulation_Design/0002.add_two_numbers.md) | 链表、模拟 | 中等 |
+|	48.旋转图像 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Simulation_Design/0048.rotate_image.md) | 数组、数学、矩阵 | 中等 |
 |	146.LRU 缓存 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Simulation_Design/0146.LRU_cache.md) | 设计、数据结构 | 中等 |
 
 ## Stack
@@ -379,6 +380,7 @@ Solve LeetCode by JS &amp; Python
 |	19.删除链表的倒数第 N 个结点 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Multiple_Ideas/0019.remove_Nth_node_from_end_of_list.md) | 链表、双指针、递归 | 中等 |
 |	23.合并 K 个升序链表 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Multiple_Ideas/0023.merge_k_sorted_lists.md) | 链表、双指针、分治、优先级队列（堆）、归并排序 | 困难 |
 |	24.两两交换链表中的节点 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Multiple_Ideas/0024.swap_nodes_in_pairs.md) | 链表、递归、迭代 | 中等 |
+|	25.K 个一组翻转链表 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Multiple_Ideas/0025.reverse_nodes_in_k-Group.md) | 链表、递归、迭代 | 困难 |
 |	32.最长有效括号 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Multiple_Ideas/0032.longest_valid_parentheses.md) | 字符串、栈、动态规划、贪心 | 困难 |
 |	62.不同路径 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Multiple_Ideas/0062.unique_paths.md) | 矩阵、数学、网格图 DP、组合数学 | 中等 |
 |	118.杨辉三角 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Multiple_Ideas/0118.pascal's_triangle.md) | 数学、动态规划、递归、迭代 | 简单 |
