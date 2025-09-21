@@ -176,6 +176,8 @@ Solve LeetCode by JS &amp; Python
 |	--- |	--- | --- | --- |
 |	2.两数相加 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Simulation_Design/0002.add_two_numbers.md) | 链表、模拟 | 中等 |
 |	48.旋转图像 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Simulation_Design/0048.rotate_image.md) | 数组、数学、矩阵 | 中等 |
+|	54.螺旋矩阵 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Simulation_Design/0054.spiral_matrix.md) | 数组、数学、矩阵 | 中等 |
+|	73.矩阵置零 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Simulation_Design/0073.set_matrix_zeroes.md) | 数组、数学、矩阵 | 中等 |
 |	146.LRU 缓存 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Simulation_Design/0146.LRU_cache.md) | 设计、数据结构 | 中等 |
 
 ## Stack
@@ -390,6 +392,7 @@ Solve LeetCode by JS &amp; Python
 |	206.反转链表 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Multiple_Ideas/0206.reverse_linked_list.md) | 链表、迭代、递归 | 简单 |
 |	215.数组中的第K个最大元素 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Multiple_Ideas/0215.Kth_largest_element_in_an_array.md) | 数组、优先级队列（堆）、快速排序 | 中等 |
 |	233.数字 1 的个数 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Multiple_Ideas/0233.number_of_digit_one.md) | 数学、数位 DP | 困难 |
+|	240.搜索二维矩阵 II | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Multiple_Ideas/0240.search_a_2D_matrix_II.md) | 数组、矩阵、二分查找、双指针 | 中等 |
 |	279.完全平方数 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Multiple_Ideas/0279.perfect_squares.md) | 数学、BFS、动态优化 | 中等 |
 |	300.最长递增子序列 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Multiple_Ideas/0300.longest_increasing_subsequence.md) | 动态规划、贪心+二分查找 | 中等 |
 |	322.零钱兑换 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Multiple_Ideas/0322.coin_change.md) | 动态规划、BFS | 中等 |
