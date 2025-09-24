@@ -82,6 +82,7 @@ Solve LeetCode by JS &amp; Python
 | 题目 | 题解 | 标签 | 难度 |
 |	--- |	--- | --- | --- |
 |	11.盛最多水的容器 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Two%20Pointers/0011.containe_with_most_water.md) | 数组、双指针 | 中等 |
+|	15.三数之和 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Two%20Pointers/0015.3Sum.md) | 数组、哈希表、双指针、排序 | 中等 |
 |	16.最接近的三数之和 | [Js/Python](https://github.com/donnapersonal/solve_lc/blob/main/Two%20Pointers/0016.3Sum_closest.md) | 数组、双指针 | 中等 |
 |	18.四数之和 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Two%20Pointers/0018.4sum.md) | 数组、双指针 | 中等 |
 |	21.合并两个有序链表 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Two%20Pointers/0021.merge_two_sorted_lists.md) | 链表、双指针 | 简单 |
@@ -384,6 +385,7 @@ Solve LeetCode by JS &amp; Python
 |	24.两两交换链表中的节点 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Multiple_Ideas/0024.swap_nodes_in_pairs.md) | 链表、递归、迭代 | 中等 |
 |	25.K 个一组翻转链表 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Multiple_Ideas/0025.reverse_nodes_in_k-Group.md) | 链表、递归、迭代 | 困难 |
 |	32.最长有效括号 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Multiple_Ideas/0032.longest_valid_parentheses.md) | 字符串、栈、动态规划、贪心 | 困难 |
+|	42.接雨水 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Multiple_Ideas/0042.trapping_rain_water.md) | 数组、栈、单调栈、双指针 | 困难 |
 |	62.不同路径 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Multiple_Ideas/0062.unique_paths.md) | 矩阵、数学、网格图 DP、组合数学 | 中等 |
 |	84.柱状图中最大的矩形 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Multiple_Ideas/0084.largest_rectangle_in_histogram.md) | 双指针、栈、单调栈 | 困难 |
 |	118.杨辉三角 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Multiple_Ideas/0118.pascal's_triangle.md) | 数学、动态规划、递归、迭代 | 简单 |
