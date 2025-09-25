@@ -121,6 +121,7 @@ Solve LeetCode by JS &amp; Python
 | 题目 | 题解 | 标签 | 难度 |
 |	--- |	--- | --- | --- |
 |	1.两数之和 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Hashing/0001.two_sum.md) | 数组、哈希表 | 简单 |
+|	41.缺失的第一个正数 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Hashing/0041.first_missing_positive.md) | 数组、哈希表 | 困难 |
 |	49.字母异位词分组 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Hashing/0049.group_anagrams.md) | 数组、哈希表 | 中等 |
 |	128.最长连续序列 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Hashing/0128.longest_consecutive_sequence.md) | 数组、哈希表 | 中等 |
 
@@ -226,6 +227,13 @@ Solve LeetCode by JS &amp; Python
 |	630.课程表 III | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Queue_Heap_PQ/0630.course_schedule_III.md) | 数组、优先级队列（堆）+ 贪心 | 困难 |
 |	632.最小区间 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Queue_Heap_PQ/0632.smallest_range_covering_elements_from_K_lists.md) | 数组、堆、最小堆 | 困难 |
 |	2944.购买水果需要的最少金币数 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Queue_Heap_PQ/2944.minimum_number_of_coins_for_fruits.md) | 数组、单调队列 | 中等 |
+
+## Trie
+
+| 题目 | 题解 | 标签 | 难度 |
+|	--- |	--- | --- | --- |
+|	31.下一个排列 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Trie/0031.next_permutation.md) | 数组、字典序 | 中等 |
+|	208.实现 Trie (前缀树) | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Trie/0208.implement_trie(prefix_tree).md) | 设计、字典树、哈希表、字符串 | 中等 |
 
 ## 图论
 
@@ -386,6 +394,7 @@ Solve LeetCode by JS &amp; Python
 |	25.K 个一组翻转链表 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Multiple_Ideas/0025.reverse_nodes_in_k-Group.md) | 链表、递归、迭代 | 困难 |
 |	32.最长有效括号 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Multiple_Ideas/0032.longest_valid_parentheses.md) | 字符串、栈、动态规划、贪心 | 困难 |
 |	42.接雨水 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Multiple_Ideas/0042.trapping_rain_water.md) | 数组、栈、单调栈、双指针 | 困难 |
+|	0053 | Maximum Subarray | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Multiple_Ideas/0053.maximum_subarray.md) | 数组、前缀和+贪心、动态规划 | 中等 |
 |	62.不同路径 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Multiple_Ideas/0062.unique_paths.md) | 矩阵、数学、网格图 DP、组合数学 | 中等 |
 |	84.柱状图中最大的矩形 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Multiple_Ideas/0084.largest_rectangle_in_histogram.md) | 双指针、栈、单调栈 | 困难 |
 |	118.杨辉三角 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Multiple_Ideas/0118.pascal's_triangle.md) | 数学、动态规划、递归、迭代 | 简单 |
