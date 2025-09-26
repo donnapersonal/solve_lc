@@ -407,6 +407,7 @@ Solve LeetCode by JS &amp; Python
 |	233.数字 1 的个数 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Multiple_Ideas/0233.number_of_digit_one.md) | 数学、数位 DP | 困难 |
 |	240.搜索二维矩阵 II | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Multiple_Ideas/0240.search_a_2D_matrix_II.md) | 数组、矩阵、二分查找、双指针 | 中等 |
 |	279.完全平方数 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Multiple_Ideas/0279.perfect_squares.md) | 数学、BFS、动态优化 | 中等 |
+|	287.寻找重复数 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Multiple_Ideas/0287.find_the_duplicate_number.md) | 数组、双指针、二分查找 | 中等 |
 |	300.最长递增子序列 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Multiple_Ideas/0300.longest_increasing_subsequence.md) | 动态规划、贪心+二分查找 | 中等 |
 |	322.零钱兑换 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Multiple_Ideas/0322.coin_change.md) | 动态规划、BFS | 中等 |
 |	347.前 K 个高频元素 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Multiple_Ideas/0347.top_K_frequent_elements.md) | 数组、哈希表、优先级队列 | 中等 |
