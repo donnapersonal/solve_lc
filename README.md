@@ -243,7 +243,7 @@ Solve LeetCode by JS &amp; Python
 |	130.被围绕的区域 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Graph/0130.surrounded_regions.md) | BFS、DFS | 中等 |
 |	133.克隆图 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Graph/0133.clone_graph.md) | BFS、DFS | 中等 |
 |	200.岛屿数量 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Graph/0200.number_of_islands.md) | DFS | 中等 |
-|	0207 | Course Schedule | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Graph/0207.course_schedule.md) | 拓扑排序 | 中等 |
+|	207.课程表 | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Graph/0207.course_schedule.md) | 拓扑排序 | 中等 |
 |	210.课程表 II | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Graph/0210.course_schedule_II.md) | 拓扑排序 | 中等 |
 |	212.单词搜索 II | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Graph/0212.word_search_II.md) | DFS | 困难 |
 |	261.以图判树 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Graph/0261.graph_valid_tree.md) | 并查集 | 中等 |
@@ -251,17 +251,17 @@ Solve LeetCode by JS &amp; Python
 |	323.无向图中连通分量的数目 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Graph/0323.number_of_connected_components_in_an_undirected_graph.md) | BFS、DFS、并查集 | 中等 |
 |	332.重新安排行程y | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Graph/0332.reconstruct_itinerary.md) | 图论、DFS、Hierholzer’s Algorithm | 困难 |
 |	399.除法求值 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Graph/0399.evaluate_division.md) | BFS | 中等 |
-|	0417 | Pacific Atlantic Water Flow | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Graph/0417.pacific_atlantic_water_flow.md) | BFS、DFS | 中等 |
-|	0433 | Minimum Genetic Mutation | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Graph/0433.minimum_genetic_mutation.md) | BFS | 中等 |
+|	417.太平洋大西洋水流问题 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Graph/0417.pacific_atlantic_water_flow.md) | BFS、DFS | 中等 |
+|	433.最小基因变化 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Graph/0433.minimum_genetic_mutation.md) | BFS | 中等 |
 |	444.序列重建 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Graph/0444.sequence_reconstruction.md) | 拓扑排序 | 中等 |
 |	695.岛屿的最大面积 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Graph/0695.max_area_of_island.md) | DFS、BFS | 中等 |
 |	733.图像渲染 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Graph/0733.flood_fill.md) | DFS、BFS | 简单 |
 |	0743 | Network Delay Time | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Graph/0743.network_delay_time.md) | Dijkstra | 中等 |
-|	0797 | All Paths From Source to Target | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Graph/0797.all_paths_from_source_to_target.md) | DFS | 中等 |
+|	797.所有可能的路径 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Graph/0797.all_paths_from_source_to_target.md) | DFS | 中等 |
 |	815.公交路线 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Graph/0815.bus_routes.md) | 图论 + BFS | 困难 |
 |	909.蛇梯棋 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Graph/0909.snakes_and_ladders.md) | BFS | 中等 |
 |	934.最短的桥 | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Graph/0934.shortest_bridge.md) | DFS + BFS | 中等 |
-|	0994 | Rotting Oranges | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Graph/0994.rotting_oranges.md) | BFS | 中等 |
+|	994.腐烂的橘子 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Graph/0994.rotting_oranges.md) | BFS | 中等 |
 |	1091.二进制矩阵中的最短路径 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Graph/1091.shortest_path_in_binary_matrix.md) | BFS | 中等 |
 |	1162.地图分析 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Graph/1162.as_far_from_land_as_possible.md) | BFS | 中等 |
 |	1203.项目管理 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Graph/1203.sort_items_by_groups_respecting_dependencies.md) | 拓扑排序 | 困难 |
@@ -401,6 +401,7 @@ Solve LeetCode by JS &amp; Python
 |	121.买卖股票的最佳时机 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Multiple_Ideas/0121.best_time_to_buy_and_sell_stock.md) | 数组、递推、DP | 简单 |
 |	138.随机链表的复制 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Multiple_Ideas/0138.copy_list_with_random_pointer.md) | 链表、哈希、DFS、原地修改 | 中等 |
 |	0141 | Linked List Cycle | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Multiple_Ideas/0141.linked_list_cycle.md) | 链表、哈希表、双指针 | 简单 |
+|	169.多数元素 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Multiple_Ideas/0169.majority_element.md) | 数组、哈希表、Moore's Voting Algorithm | 简单 |
 |	206.反转链表 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Multiple_Ideas/0206.reverse_linked_list.md) | 链表、迭代、递归 | 简单 |
 |	215.数组中的第K个最大元素 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Multiple_Ideas/0215.Kth_largest_element_in_an_array.md) | 数组、优先级队列（堆）、快速排序 | 中等 |
 |	233.数字 1 的个数 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Multiple_Ideas/0233.number_of_digit_one.md) | 数学、数位 DP | 困难 |
