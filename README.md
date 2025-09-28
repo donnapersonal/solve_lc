@@ -297,6 +297,8 @@ Solve LeetCode by JS &amp; Python
 |	236.二叉树的最近公共祖先 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Binary%20Tree/0236.lowest_common_ancestor_of_a_binary_tree.md) | 二叉树、递归、迭代 | 中等 |
 |	437.路径总和 III | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Binary%20Tree/0437.path_sum_III.md) | 二叉树、DFS | 中等 |
 |	543.二叉树的直径 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Binary%20Tree/0543.diameter_of_binary_tree.md) | 二叉树、DFS | 简单 |
+|	662.二叉树最大宽度 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Binary%20Tree/0662.maximum_width_of_binary_tree.md) | 二叉树、DFS、BFS | 中等 |
+|	654.最大二叉树 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Binary%20Tree/0654.maximum_binary_tree.md) | 二叉树、递归 | 中等 |
 
 ## 数学
 
