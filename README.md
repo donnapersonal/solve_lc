@@ -96,9 +96,9 @@ Solve LeetCode by JS &amp; Python
 |	88.合并两个有序数组 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Two%20Pointers/0088.merge_sorted_array.md) | 数组、双指针 | 简单 |
 |	125.验证回文串 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Two%20Pointers/0125.valid_palindrome.md) | 字符串、双指针 | 简单 |
 |	0142 | Linked List Cycle II | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Two_pointers/0142.linked_list_cycle_II.md) | 链表、双指针 | 中等 |
-|	0151 | Reverse Words in a String | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Two%20Pointers/0151.reverse_words_in_a_string.md) | 字符串、双指针 | 中等 |
+|	151.反转字符串中的单词 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Two%20Pointers/0151.reverse_words_in_a_string.md) | 字符串、双指针 | 中等 |
 |	160.相交链表 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/8589cf5abb783b9fc3b813e3e92ce4934475614e/Two%20Pointers/0160.intersection_of_two_linked_lists.md) | 链表、双指针 | 简单 |
-|	0167 | Two Sum II - Input Array Is Sorted | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Two_pointers/0167.two_sum_II-input_array_is_sorted.md) | 数组、双指针 | 中等 |
+|	0167 | 167.两数之和 II - 输入有序数组 | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Two_pointers/0167.two_sum_II-input_array_is_sorted.md) | 数组、双指针 | 中等 |
 |	189.轮转数组 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Two%20Pointers/0189.potate_array.md) | 数组、双指针 + 数组翻转 | 中等 |
 |	234.回文链表 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/3dd0b7e7c7821210045c448146f8f3eb8d544b2d/Two%20Pointers/0234.palindrome_linked_list.md) | 链表、双指针 | 简单 |
 |	253.会议室 II | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Two%20Pointers/0253.meeting_rooms_II.md) | 数组、双指针 + 排序 | 中等 |
@@ -124,6 +124,7 @@ Solve LeetCode by JS &amp; Python
 |	41.缺失的第一个正数 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Hashing/0041.first_missing_positive.md) | 数组、哈希表 | 困难 |
 |	49.字母异位词分组 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Hashing/0049.group_anagrams.md) | 数组、哈希表 | 中等 |
 |	128.最长连续序列 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Hashing/0128.longest_consecutive_sequence.md) | 数组、哈希表 | 中等 |
+|	128.最长连续序列 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Hashing/0974.subarray_sums_divisible_by_K.md) | 数组、哈希表 | 中等 |
 
 ## Prefix Sum
 
@@ -181,6 +182,9 @@ Solve LeetCode by JS &amp; Python
 |	54.螺旋矩阵 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Simulation_Design/0054.spiral_matrix.md) | 数组、数学、矩阵 | 中等 |
 |	73.矩阵置零 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Simulation_Design/0073.set_matrix_zeroes.md) | 数组、数学、矩阵 | 中等 |
 |	146.LRU 缓存 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Simulation_Design/0146.LRU_cache.md) | 设计、数据结构 | 中等 |
+|	355.设计推特 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Simulation_Design/0355.design_twitter.md) | 设计 | 中等 |
+|	460.LFU 缓存 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Simulation_Design/0460.LFU_cache.md) | 设计、数据结构 | 困难 |
+|	622.设计循环队列 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Simulation_Design/0622.design_circular_queue.md) | 设计、数据结构 | 中等 |
 
 ## Stack
 
@@ -233,9 +237,10 @@ Solve LeetCode by JS &amp; Python
 | 题目 | 题解 | 标签 | 难度 |
 |	--- |	--- | --- | --- |
 |	31.下一个排列 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Trie/0031.next_permutation.md) | 数组、字典序 | 中等 |
+|	211.添加与搜索单词 - 数据结构设计 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Trie/0211.design_add_and_search_words_data_structure.md) | 设计、字典树 | 中等 |
 |	208.实现 Trie (前缀树) | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Trie/0208.implement_trie(prefix_tree).md) | 设计、字典树、哈希表、字符串 | 中等 |
 
-## 图论
+## 图论/DFS/BFS
 
 | 题目 | 题解 | 标签 | 难度 |
 |	--- |	--- | --- | --- |
@@ -254,9 +259,10 @@ Solve LeetCode by JS &amp; Python
 |	417.太平洋大西洋水流问题 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Graph/0417.pacific_atlantic_water_flow.md) | BFS、DFS | 中等 |
 |	433.最小基因变化 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Graph/0433.minimum_genetic_mutation.md) | BFS | 中等 |
 |	444.序列重建 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Graph/0444.sequence_reconstruction.md) | 拓扑排序 | 中等 |
+|	684.冗余连接 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Graph/0684.redundant_connection.md) | 并查集 Union-Find | 中等 |
 |	695.岛屿的最大面积 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Graph/0695.max_area_of_island.md) | DFS、BFS | 中等 |
 |	733.图像渲染 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Graph/0733.flood_fill.md) | DFS、BFS | 简单 |
-|	0743 | Network Delay Time | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Graph/0743.network_delay_time.md) | Dijkstra | 中等 |
+|	743.网络延迟时间 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Graph/0743.network_delay_time.md) | Dijkstra | 中等 |
 |	797.所有可能的路径 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Graph/0797.all_paths_from_source_to_target.md) | DFS | 中等 |
 |	815.公交路线 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Graph/0815.bus_routes.md) | 图论 + BFS | 困难 |
 |	909.蛇梯棋 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Graph/0909.snakes_and_ladders.md) | BFS | 中等 |
@@ -288,9 +294,12 @@ Solve LeetCode by JS &amp; Python
 |	104.二叉树的最大深度 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Binary%20Tree/0104.maximum_depth_of_binary_tree.md) | 二叉树、层次遍历、递归 | 简单 |
 |	105.从前序与中序遍历序列构造二叉树 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Binary%20Tree/0105.construct_binary_tree_from_preorder_and_inorder_traversal.md) | 二叉树、递归 | 中等 |
 |	106.从中序与后序遍历序列构造二叉树 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Binary%20Tree/0106.construct_binary_tree_from_inorder_and_postorder_traversal.md) | 二叉树、递归、迭代 | 中等 |
+|	107.二叉树的层序遍历 II | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Binary%20Tree/0107.binary_tree_level_order_traversal_II.md) | 二叉树、BFS | 中等 |
 |	108.将有序数组转换为二叉搜索树 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Binary%20Tree/0108.convert_sorted_array_to_binary_search_tree.md) | 二叉树、递归、迭代 | 简单 |
 |	114.二叉树展开为链表 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Binary%20Tree/0114.flatten_binary_tree_to_linked_list.md) | 二叉树、递归、迭代 | 中等 |
+|	117.填充每个节点的下一个右侧节点指针 II | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Binary%20Tree/0117.populating_next_right_pointers_in_each_node_II.md) | 二叉树、递归、迭代 | 中等 |
 |	124.二叉树中的最大路径和 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Binary%20Tree/0124.binary_tree_maximum_path_sum.md) | 二叉树、深度优先搜索 | 困难 |
+|	129.求根节点到叶节点数字之和 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Binary%20Tree/0129.sum_root_to_leaf_numbers.md) | 二叉树、递归、迭代 | 中等 |
 |	199.二叉树的右视图 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Binary%20Tree/0199.binary_tree_right_side_view.md) | 二叉树、BFS、DFS | 中等 |
 |	226.翻转二叉树 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Binary%20Tree/0226.invert_binary_tree.md) | 二叉树、BFS、DFS | 简单 |
 |	230.二叉搜索树中第 K 小的元素 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Binary%20Tree/0230.Kth_smallest_element_in_a_BST.md) | 二叉树、递归、迭代 | 中等 |
@@ -299,6 +308,7 @@ Solve LeetCode by JS &amp; Python
 |	543.二叉树的直径 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Binary%20Tree/0543.diameter_of_binary_tree.md) | 二叉树、DFS | 简单 |
 |	662.二叉树最大宽度 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Binary%20Tree/0662.maximum_width_of_binary_tree.md) | 二叉树、DFS、BFS | 中等 |
 |	654.最大二叉树 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Binary%20Tree/0654.maximum_binary_tree.md) | 二叉树、递归 | 中等 |
+|	1123.最深叶节点的最近公共祖先 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Binary%20Tree/1123.lowest_common_ancestor_of_deepest_leaves.md) | 二叉树、递归 | 中等 |
 
 ## 数学
 
@@ -415,6 +425,7 @@ Solve LeetCode by JS &amp; Python
 |	279.完全平方数 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Multiple_Ideas/0279.perfect_squares.md) | 数学、BFS、动态优化 | 中等 |
 |	287.寻找重复数 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Multiple_Ideas/0287.find_the_duplicate_number.md) | 数组、双指针、二分查找 | 中等 |
 |	300.最长递增子序列 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Multiple_Ideas/0300.longest_increasing_subsequence.md) | 动态规划、贪心+二分查找 | 中等 |
+|	301.删除无效的括号 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Multiple_Ideas/0301.remove_invalid_parentheses.md) | 字符串、BFS、回溯 | 困难 |
 |	322.零钱兑换 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Multiple_Ideas/0322.coin_change.md) | 动态规划、BFS | 中等 |
 |	329.矩阵中的最长递增路径 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Multiple_Ideas/0329.longest_increasing_path_in_a_matrix.md) | 记忆化 DFS、拓扑排序 | 困难 |
 |	347.前 K 个高频元素 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Multiple_Ideas/0347.top_K_frequent_elements.md) | 数组、哈希表、优先级队列 | 中等 |
