@@ -263,10 +263,14 @@ Solve LeetCode by JS &amp; Python
 |	934.最短的桥 | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Graph/0934.shortest_bridge.md) | DFS + BFS | 中等 |
 |	994.腐烂的橘子 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Graph/0994.rotting_oranges.md) | BFS | 中等 |
 |	1091.二进制矩阵中的最短路径 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Graph/1091.shortest_path_in_binary_matrix.md) | BFS | 中等 |
+|	1129.颜色交替的最短路径 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Graph/1129.shortest_path_with_alternating_colors.md) | BFS | 中等 |
 |	1162.地图分析 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Graph/1162.as_far_from_land_as_possible.md) | BFS | 中等 |
 |	1203.项目管理 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Graph/1203.sort_items_by_groups_respecting_dependencies.md) | 拓扑排序 | 困难 |
 |	1293.网格中的最短路径 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Graph/1293.Shortest_path_in_a_grid_with_obstacles_elimination.md) | BFS |困难 |
 |	1334.阈值距离内邻居最少的城市 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Graph/1334.find_the_city_with_the_smallest_number_of_neighbors_at_a_threshold_distance.md) | Floyd、Dijkstra | 中等 |
+|	2101.引爆最多的炸弹 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Graph/2101.detonate_the_maximum_bombs.md) | DFS、Floyd | 中等 |
+|	2685.统计完全连通分量的数量 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Graph/2685.count_the_number_of_complete_components.md) | DFS、Union-Find | 中等 |
+|	3341.到达最后一个房间的最少时间 I | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Graph/3341.find_minimum_time_to_reach_last_room_I.md) | Dijkstra | 中等 |
 
 ## 二叉树
 
@@ -410,5 +414,8 @@ Solve LeetCode by JS &amp; Python
 |	287.寻找重复数 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Multiple_Ideas/0287.find_the_duplicate_number.md) | 数组、双指针、二分查找 | 中等 |
 |	300.最长递增子序列 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Multiple_Ideas/0300.longest_increasing_subsequence.md) | 动态规划、贪心+二分查找 | 中等 |
 |	322.零钱兑换 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Multiple_Ideas/0322.coin_change.md) | 动态规划、BFS | 中等 |
+|	329.矩阵中的最长递增路径 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Multiple_Ideas/0329.longest_increasing_path_in_a_matrix.md) | 记忆化 DFS、拓扑排序 | 困难 |
 |	347.前 K 个高频元素 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Multiple_Ideas/0347.top_K_frequent_elements.md) | 数组、哈希表、优先级队列 | 中等 |
+|	547.省份数量 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Multiple_Ideas/0547.number_of_provinces.md) | DFS、BFS、并查集 | 中等 |
+|	787.K 站中转内最便宜的航班 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Multiple_Ideas/0787.cheapest_flights_within_K_stop.md) | Dijkstra、Bellman Ford | 中等 |
 |	2982.找出出现至少三次的最长特殊子字符串 II | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Multiple_Ideas/2982.find_longest_special_substring_that_occurs_thrice_II.md) | 字符串、二分答案、滑动窗口计数、一次遍历 | 中等 |
