@@ -178,8 +178,10 @@ Solve LeetCode by JS &amp; Python
 | 题目 | 题解 | 标签 | 难度 |
 |	--- |	--- | --- | --- |
 |	2.两数相加 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Simulation_Design/0002.add_two_numbers.md) | 链表、模拟 | 中等 |
+|	6.Z 字形变换 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Simulation_Design/0006.zigzag_conversion.md) | 字符串、模拟 | 中等 |
 |	48.旋转图像 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Simulation_Design/0048.rotate_image.md) | 数组、数学、矩阵 | 中等 |
 |	54.螺旋矩阵 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Simulation_Design/0054.spiral_matrix.md) | 数组、数学、矩阵 | 中等 |
+|	59.螺旋矩阵 II | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Simulation_Design/0059.spiral_matrix_II.md) | 矩阵、模拟 | 中等 |
 |	73.矩阵置零 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Simulation_Design/0073.set_matrix_zeroes.md) | 数组、数学、矩阵 | 中等 |
 |	146.LRU 缓存 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Simulation_Design/0146.LRU_cache.md) | 设计、数据结构 | 中等 |
 |	355.设计推特 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Simulation_Design/0355.design_twitter.md) | 设计 | 中等 |
