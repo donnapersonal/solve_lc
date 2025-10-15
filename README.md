@@ -393,7 +393,7 @@ Solve LeetCode by JS &amp; Python
 ## Dynamic Programming
 
 | 题目 | 题解 | 标签 | 难度 |
-|	--- |	--- | --- | --- |
+|	63.不同路径 II | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Dynamic%20Programming/0063unique_paths_II.md) | 矩阵、动态规划 | 中等 |
 |	64.最小路径和 | [Js/Python](https://github.com/donnapersonal/solve_lc/blob/main/Dynamic%20Programming/0064.minimum_path_sum.md) | 矩阵、动态规划 | 中等 |
 |	70.爬楼梯 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Dynamic%20Programming/0070.climbing_stairs.md) | 动态规划 | 简单 |
 |	72.编辑距离 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Dynamic%20Programming/0072.edit_distance.md) | 字符串、动态规划 | 中等 |
@@ -414,13 +414,14 @@ Solve LeetCode by JS &amp; Python
 |	25.K 个一组翻转链表 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Multiple_Ideas/0025.reverse_nodes_in_k-Group.md) | 链表、递归、迭代 | 困难 |
 |	32.最长有效括号 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Multiple_Ideas/0032.longest_valid_parentheses.md) | 字符串、栈、动态规划、贪心 | 困难 |
 |	42.接雨水 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Multiple_Ideas/0042.trapping_rain_water.md) | 数组、栈、单调栈、双指针 | 困难 |
-|	0053 | Maximum Subarray | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Multiple_Ideas/0053.maximum_subarray.md) | 数组、前缀和+贪心、动态规划 | 中等 |
+|	53.最大子数组和 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Multiple_Ideas/0053.maximum_subarray.md) | 数组、前缀和+贪心、动态规划 | 中等 |
 |	62.不同路径 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Multiple_Ideas/0062.unique_paths.md) | 矩阵、数学、网格图 DP、组合数学 | 中等 |
 |	84.柱状图中最大的矩形 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Multiple_Ideas/0084.largest_rectangle_in_histogram.md) | 双指针、栈、单调栈 | 困难 |
+|	92.反转链表 II | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Multiple_Ideas/0092.reverse_linked_list_II.md) | 链表、双指针、递归 | 中等 |
 |	118.杨辉三角 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Multiple_Ideas/0118.pascal's_triangle.md) | 数学、动态规划、递归、迭代 | 简单 |
 |	121.买卖股票的最佳时机 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Multiple_Ideas/0121.best_time_to_buy_and_sell_stock.md) | 数组、递推、DP | 简单 |
 |	138.随机链表的复制 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Multiple_Ideas/0138.copy_list_with_random_pointer.md) | 链表、哈希、DFS、原地修改 | 中等 |
-|	0141 | Linked List Cycle | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Multiple_Ideas/0141.linked_list_cycle.md) | 链表、哈希表、双指针 | 简单 |
+|	141.环形链表 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Multiple_Ideas/0141.linked_list_cycle.md) | 链表、哈希表、双指针 | 简单 |
 |	169.多数元素 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Multiple_Ideas/0169.majority_element.md) | 数组、哈希表、Moore's Voting Algorithm | 简单 |
 |	206.反转链表 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Multiple_Ideas/0206.reverse_linked_list.md) | 链表、迭代、递归 | 简单 |
 |	215.数组中的第K个最大元素 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Multiple_Ideas/0215.Kth_largest_element_in_an_array.md) | 数组、优先级队列（堆）、快速排序 | 中等 |
