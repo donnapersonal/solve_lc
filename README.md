@@ -420,6 +420,7 @@ Solve LeetCode by JS &amp; Python
 |	92.反转链表 II | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Multiple_Ideas/0092.reverse_linked_list_II.md) | 链表、双指针、递归 | 中等 |
 |	118.杨辉三角 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Multiple_Ideas/0118.pascal's_triangle.md) | 数学、动态规划、递归、迭代 | 简单 |
 |	121.买卖股票的最佳时机 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Multiple_Ideas/0121.best_time_to_buy_and_sell_stock.md) | 数组、递推、DP | 简单 |
+|	122.买卖股票的最佳时机 II | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Multiple_Ideas/0122.best_time_to_buy_and_sell_stock_II.md) | 数组、贪心、DP | 中等 |
 |	138.随机链表的复制 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Multiple_Ideas/0138.copy_list_with_random_pointer.md) | 链表、哈希、DFS、原地修改 | 中等 |
 |	141.环形链表 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Multiple_Ideas/0141.linked_list_cycle.md) | 链表、哈希表、双指针 | 简单 |
 |	165.比较版本号 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Multiple_Ideas/0165.compare_version_numbers.md) | 字符串、分割、双指针 | 中等 |
@@ -432,6 +433,7 @@ Solve LeetCode by JS &amp; Python
 |	287.寻找重复数 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Multiple_Ideas/0287.find_the_duplicate_number.md) | 数组、双指针、二分查找 | 中等 |
 |	300.最长递增子序列 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Multiple_Ideas/0300.longest_increasing_subsequence.md) | 动态规划、贪心+二分查找 | 中等 |
 |	301.删除无效的括号 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Multiple_Ideas/0301.remove_invalid_parentheses.md) | 字符串、BFS、回溯 | 困难 |
+|	316.去除重复字母 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Multiple_Ideas/0316.remove_duplicate_letters.md) | 字符串、栈、贪心 | 中等 |
 |	322.零钱兑换 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Multiple_Ideas/0322.coin_change.md) | 动态规划、BFS | 中等 |
 |	329.矩阵中的最长递增路径 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Multiple_Ideas/0329.longest_increasing_path_in_a_matrix.md) | 记忆化 DFS、拓扑排序 | 困难 |
 |	347.前 K 个高频元素 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Multiple_Ideas/0347.top_K_frequent_elements.md) | 数组、哈希表、优先级队列 | 中等 |
