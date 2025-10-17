@@ -422,6 +422,7 @@ Solve LeetCode by JS &amp; Python
 |	121.买卖股票的最佳时机 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Multiple_Ideas/0121.best_time_to_buy_and_sell_stock.md) | 数组、递推、DP | 简单 |
 |	138.随机链表的复制 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Multiple_Ideas/0138.copy_list_with_random_pointer.md) | 链表、哈希、DFS、原地修改 | 中等 |
 |	141.环形链表 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Multiple_Ideas/0141.linked_list_cycle.md) | 链表、哈希表、双指针 | 简单 |
+|	165.比较版本号 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Multiple_Ideas/0165.compare_version_numbers.md) | 字符串、分割、双指针 | 中等 |
 |	169.多数元素 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Multiple_Ideas/0169.majority_element.md) | 数组、哈希表、Moore's Voting Algorithm | 简单 |
 |	206.反转链表 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Multiple_Ideas/0206.reverse_linked_list.md) | 链表、迭代、递归 | 简单 |
 |	215.数组中的第K个最大元素 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Multiple_Ideas/0215.Kth_largest_element_in_an_array.md) | 数组、优先级队列（堆）、快速排序 | 中等 |
@@ -434,6 +435,7 @@ Solve LeetCode by JS &amp; Python
 |	322.零钱兑换 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Multiple_Ideas/0322.coin_change.md) | 动态规划、BFS | 中等 |
 |	329.矩阵中的最长递增路径 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Multiple_Ideas/0329.longest_increasing_path_in_a_matrix.md) | 记忆化 DFS、拓扑排序 | 困难 |
 |	347.前 K 个高频元素 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Multiple_Ideas/0347.top_K_frequent_elements.md) | 数组、哈希表、优先级队列 | 中等 |
+|	451.根据字符出现频率排序 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Multiple_Ideas/0451.sort_characters_by_frequency.md) | 字符串、优先级队列（二叉堆）、桶排序| 中等 |
 |	547.省份数量 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Multiple_Ideas/0547.number_of_provinces.md) | DFS、BFS、并查集 | 中等 |
 |	787.K 站中转内最便宜的航班 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Multiple_Ideas/0787.cheapest_flights_within_K_stop.md) | Dijkstra、Bellman Ford | 中等 |
 |	2982.找出出现至少三次的最长特殊子字符串 II | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Multiple_Ideas/2982.find_longest_special_substring_that_occurs_thrice_II.md) | 字符串、二分答案、滑动窗口计数、一次遍历 | 中等 |
