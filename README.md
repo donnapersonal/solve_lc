@@ -397,6 +397,7 @@ Solve LeetCode by JS &amp; Python
 |	64.最小路径和 | [Js/Python](https://github.com/donnapersonal/solve_lc/blob/main/Dynamic%20Programming/0064.minimum_path_sum.md) | 矩阵、动态规划 | 中等 |
 |	70.爬楼梯 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Dynamic%20Programming/0070.climbing_stairs.md) | 动态规划 | 简单 |
 |	72.编辑距离 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Dynamic%20Programming/0072.edit_distance.md) | 字符串、动态规划 | 中等 |
+|	91.解码方法 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Dynamic%20Programming/0091.decode_ways.md) | 字符串、动态规划 | 中等 |
 |	139.单词拆分 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Dynamic%20Programming/0139.word_break.md) | 动态规划 | 中等 |
 |	152.乘积最大子数组 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Dynamic%20Programming/0152.maximum_product_subarray.md) | 数组、动态规划 | 中等 |
 |	198.打家劫舍 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Dynamic%20Programming/0198.house_robber.md) | 动态规划 | 中等 |
