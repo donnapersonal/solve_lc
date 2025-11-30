@@ -300,6 +300,7 @@ Solve LeetCode by JS &amp; Python
 |	106.从中序与后序遍历序列构造二叉树 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Binary%20Tree/0106.construct_binary_tree_from_inorder_and_postorder_traversal.md) | 二叉树、递归、迭代 | 中等 |
 |	107.二叉树的层序遍历 II | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Binary%20Tree/0107.binary_tree_level_order_traversal_II.md) | 二叉树、BFS | 中等 |
 |	108.将有序数组转换为二叉搜索树 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Binary%20Tree/0108.convert_sorted_array_to_binary_search_tree.md) | 二叉树、递归、迭代 | 简单 |
+|	113.路径总和 II | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Binary%20Tree/0113.path_sum_II.md) | 二叉树、递归、迭代 | 中等 |
 |	114.二叉树展开为链表 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Binary%20Tree/0114.flatten_binary_tree_to_linked_list.md) | 二叉树、递归、迭代 | 中等 |
 |	117.填充每个节点的下一个右侧节点指针 II | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Binary%20Tree/0117.populating_next_right_pointers_in_each_node_II.md) | 二叉树、递归、迭代 | 中等 |
 |	124.二叉树中的最大路径和 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Binary%20Tree/0124.binary_tree_maximum_path_sum.md) | 二叉树、深度优先搜索 | 困难 |
@@ -404,6 +405,10 @@ Solve LeetCode by JS &amp; Python
 |	152.乘积最大子数组 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Dynamic%20Programming/0152.maximum_product_subarray.md) | 数组、动态规划 | 中等 |
 |	198.打家劫舍 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Dynamic%20Programming/0198.house_robber.md) | 动态规划 | 中等 |
 |	213.打家劫舍 II | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Dynamic%20Programming/0213.house_robber_II.md) | 动态规划 | 中等 |
+|	221.最大正方形 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Dynamic%20Programming/0221.maximal_square.md) | 动态规划 | 中等 |
+|	309.买卖股票的最佳时机含冷冻期 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Dynamic%20Programming/0309.best_time_to_buy_and_sell_stock_with_cooldown.md) | 动态规划 | 中等 |
+|	337.打家劫舍 III | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Dynamic%20Programming/0337.house_robber_III.md) | 动态规划 | 中等 |
+|	377.组合总和 Ⅳ | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Dynamic%20Programming/0377.combination_sum_IV.md) | 数组、动态规划 | 中等 |
 |	416.分割等和子集 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Dynamic%20Programming/0416.partition_equal_subset_sum.md) | 数组、动态规划 | 中等 |
 |	1143.最长公共子序列 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Dynamic%20Programming/1143.longest_common_subsequence.md) | 动态规划 | 中等 |
 
