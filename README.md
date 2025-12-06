@@ -121,6 +121,7 @@ Solve LeetCode by JS &amp; Python
 | 题目 | 题解 | 标签 | 难度 |
 |	--- |	--- | --- | --- |
 |	1.两数之和 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Hashing/0001.two_sum.md) | 数组、哈希表 | 简单 |
+|	36.有效的数独 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Hashing/0036.valid_sudoku.md) | 数独、哈希 | 中等 |
 |	41.缺失的第一个正数 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Hashing/0041.first_missing_positive.md) | 数组、哈希表 | 困难 |
 |	49.字母异位词分组 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Hashing/0049.group_anagrams.md) | 数组、哈希表 | 中等 |
 |	128.最长连续序列 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Hashing/0128.longest_consecutive_sequence.md) | 数组、哈希表 | 中等 |
@@ -173,7 +174,7 @@ Solve LeetCode by JS &amp; Python
 |	191.位 1 的个数 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Bit/0191.number_of_1_bits.md) | 位运算 | 简单 |
 |	201.数字范围按位与 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Bit/0201.bitwise_AND_of_numbers_range.md) | 位运算 | 中等 |
 
-## 模拟/设计
+## Simulation/Design
 
 | 题目 | 题解 | 标签 | 难度 |
 |	--- |	--- | --- | --- |
@@ -188,6 +189,7 @@ Solve LeetCode by JS &amp; Python
 |	380.O(1) 时间插入、删除和获取随机元素 | [Java/JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Simulation_Design/0380.insert_delete_getRandom_O(1).md) | 数组、数学、设计、哈希表 | 中等 |
 |	460.LFU 缓存 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Simulation_Design/0460.LFU_cache.md) | 设计、数据结构 | 困难 |
 |	622.设计循环队列 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Simulation_Design/0622.design_circular_queue.md) | 设计、数据结构 | 中等 |
+|	642.设计搜索自动补全系统 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Simulation_Design/0642.design_search_autocomplete_system.md) | 设计、字典树 | 困难 |
 |	3408.设计任务管理器 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Simulation_Design/3408.design_task_manager.md) | 设计、堆、哈希 | 中等 |
 
 ## Stack
@@ -282,7 +284,7 @@ Solve LeetCode by JS &amp; Python
 |	2685.统计完全连通分量的数量 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Graph/2685.count_the_number_of_complete_components.md) | DFS、Union-Find | 中等 |
 |	3341.到达最后一个房间的最少时间 I | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Graph/3341.find_minimum_time_to_reach_last_room_I.md) | Dijkstra | 中等 |
 
-## 二叉树
+## Tree
 
 | 题目 | 题解 | 标签 | 难度 |
 |	--- |	--- | --- | --- |
@@ -305,9 +307,11 @@ Solve LeetCode by JS &amp; Python
 |	117.填充每个节点的下一个右侧节点指针 II | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Binary%20Tree/0117.populating_next_right_pointers_in_each_node_II.md) | 二叉树、递归、迭代 | 中等 |
 |	124.二叉树中的最大路径和 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Binary%20Tree/0124.binary_tree_maximum_path_sum.md) | 二叉树、深度优先搜索 | 困难 |
 |	129.求根节点到叶节点数字之和 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Binary%20Tree/0129.sum_root_to_leaf_numbers.md) | 二叉树、递归、迭代 | 中等 |
+|	173.二叉搜索树迭代器 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Binary%20Tree/0173.binary_search_tree_iterator.md) | 二叉树、递归、迭代 | 中等 |
 |	199.二叉树的右视图 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Binary%20Tree/0199.binary_tree_right_side_view.md) | 二叉树、BFS、DFS | 中等 |
 |	226.翻转二叉树 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Binary%20Tree/0226.invert_binary_tree.md) | 二叉树、BFS、DFS | 简单 |
 |	230.二叉搜索树中第 K 小的元素 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Binary%20Tree/0230.Kth_smallest_element_in_a_BST.md) | 二叉树、递归、迭代 | 中等 |
+|	235.二叉搜索树的最近公共祖先 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Binary%20Tree/0235.lowest_common_ancestor_of_a_binary_search_tree.md) | 二叉树、递归、迭代 | 中等 |
 |	236.二叉树的最近公共祖先 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Binary%20Tree/0236.lowest_common_ancestor_of_a_binary_tree.md) | 二叉树、递归、迭代 | 中等 |
 |	437.路径总和 III | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Binary%20Tree/0437.path_sum_III.md) | 二叉树、DFS | 中等 |
 |	543.二叉树的直径 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Binary%20Tree/0543.diameter_of_binary_tree.md) | 二叉树、DFS | 简单 |
@@ -410,6 +414,8 @@ Solve LeetCode by JS &amp; Python
 |	337.打家劫舍 III | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Dynamic%20Programming/0337.house_robber_III.md) | 动态规划 | 中等 |
 |	377.组合总和 Ⅳ | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Dynamic%20Programming/0377.combination_sum_IV.md) | 数组、动态规划 | 中等 |
 |	416.分割等和子集 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Dynamic%20Programming/0416.partition_equal_subset_sum.md) | 数组、动态规划 | 中等 |
+|	474.一和零 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Dynamic%20Programming/0474.ones_and_zeroes.md) | 数组、动态规划 | 中等 |
+|	516.最长回文子序列 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Dynamic%20Programming/0516.longest_palindromic_subsequence.md) | 字符串、动态规划 | 中等 |
 |	1143.最长公共子序列 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Dynamic%20Programming/1143.longest_common_subsequence.md) | 动态规划 | 中等 |
 
 ## Multiple Ideas
@@ -423,6 +429,7 @@ Solve LeetCode by JS &amp; Python
 |	25.K 个一组翻转链表 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Multiple_Ideas/0025.reverse_nodes_in_k-Group.md) | 链表、递归、迭代 | 困难 |
 |	32.最长有效括号 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Multiple_Ideas/0032.longest_valid_parentheses.md) | 字符串、栈、动态规划、贪心 | 困难 |
 |	42.接雨水 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Multiple_Ideas/0042.trapping_rain_water.md) | 数组、栈、单调栈、双指针 | 困难 |
+|	44.通配符匹配 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Multiple_Ideas/0044.wildcard_matching.md) | 数组、栈、单调栈、双指针 | 困难 |
 |	53.最大子数组和 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Multiple_Ideas/0053.maximum_subarray.md) | 数组、前缀和+贪心、动态规划 | 中等 |
 |	62.不同路径 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Multiple_Ideas/0062.unique_paths.md) | 矩阵、数学、网格图 DP、组合数学 | 中等 |
 |	84.柱状图中最大的矩形 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Multiple_Ideas/0084.largest_rectangle_in_histogram.md) | 双指针、栈、单调栈 | 困难 |
@@ -432,12 +439,14 @@ Solve LeetCode by JS &amp; Python
 |	122.买卖股票的最佳时机 II | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Multiple_Ideas/0122.best_time_to_buy_and_sell_stock_II.md) | 数组、贪心、DP | 中等 |
 |	138.随机链表的复制 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Multiple_Ideas/0138.copy_list_with_random_pointer.md) | 链表、哈希、DFS、原地修改 | 中等 |
 |	141.环形链表 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Multiple_Ideas/0141.linked_list_cycle.md) | 链表、哈希表、双指针 | 简单 |
+|	143.重新排序列表 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Multiple_Ideas/0143.reorder_list.md) | 链表、栈、双指针 | 中等 |
 |	165.比较版本号 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Multiple_Ideas/0165.compare_version_numbers.md) | 字符串、分割、双指针 | 中等 |
 |	169.多数元素 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Multiple_Ideas/0169.majority_element.md) | 数组、哈希表、Moore's Voting Algorithm | 简单 |
 |	206.反转链表 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Multiple_Ideas/0206.reverse_linked_list.md) | 链表、迭代、递归 | 简单 |
 |	215.数组中的第K个最大元素 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Multiple_Ideas/0215.Kth_largest_element_in_an_array.md) | 数组、优先级队列（堆）、快速排序 | 中等 |
 |	233.数字 1 的个数 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Multiple_Ideas/0233.number_of_digit_one.md) | 数学、数位 DP | 困难 |
 |	240.搜索二维矩阵 II | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Multiple_Ideas/0240.search_a_2D_matrix_II.md) | 数组、矩阵、二分查找、双指针 | 中等 |
+|	264.丑数 II | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Multiple_Ideas/0264.ugly_number_II.md) | 数学、双指针、动态规划 | 中等 |
 |	279.完全平方数 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Multiple_Ideas/0279.perfect_squares.md) | 数学、BFS、动态优化 | 中等 |
 |	287.寻找重复数 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Multiple_Ideas/0287.find_the_duplicate_number.md) | 数组、双指针、二分查找 | 中等 |
 |	300.最长递增子序列 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Multiple_Ideas/0300.longest_increasing_subsequence.md) | 动态规划、贪心+二分查找 | 中等 |
