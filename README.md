@@ -184,8 +184,10 @@ Solve LeetCode by JS &amp; Python
 |	48.旋转图像 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Simulation_Design/0048.rotate_image.md) | 数组、数学、矩阵 | 中等 |
 |	54.螺旋矩阵 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Simulation_Design/0054.spiral_matrix.md) | 数组、数学、矩阵 | 中等 |
 |	59.螺旋矩阵 II | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Simulation_Design/0059.spiral_matrix_II.md) | 矩阵、模拟 | 中等 |
+|	68.文本左右对齐 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Simulation_Design/0068.text_justification.md) | 字符串、模拟 | 困难 |
 |	73.矩阵置零 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Simulation_Design/0073.set_matrix_zeroes.md) | 数组、数学、矩阵 | 中等 |
 |	146.LRU 缓存 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Simulation_Design/0146.LRU_cache.md) | 设计、数据结构 | 中等 |
+|	166.分数到小数 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Simulation_Design/166.fraction_to_recurring_decimal.md) | 模拟、哈希 | 中等 |
 |	355.设计推特 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Simulation_Design/0355.design_twitter.md) | 设计 | 中等 |
 |	380.O(1) 时间插入、删除和获取随机元素 | [Java/JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Simulation_Design/0380.insert_delete_getRandom_O(1).md) | 数组、数学、设计、哈希表 | 中等 |
 |	460.LFU 缓存 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Simulation_Design/0460.LFU_cache.md) | 设计、数据结构 | 困难 |
@@ -314,6 +316,7 @@ Solve LeetCode by JS &amp; Python
 |	230.二叉搜索树中第 K 小的元素 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Binary%20Tree/0230.Kth_smallest_element_in_a_BST.md) | 二叉树、递归、迭代 | 中等 |
 |	235.二叉搜索树的最近公共祖先 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Binary%20Tree/0235.lowest_common_ancestor_of_a_binary_search_tree.md) | 二叉树、递归、迭代 | 中等 |
 |	236.二叉树的最近公共祖先 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Binary%20Tree/0236.lowest_common_ancestor_of_a_binary_tree.md) | 二叉树、递归、迭代 | 中等 |
+|	310.最小高度树 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Binary%20Tree/0310.minimum_height_trees.md) | 二叉树、BFS、拓扑排序 | 中等 |
 |	437.路径总和 III | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Binary%20Tree/0437.path_sum_III.md) | 二叉树、DFS | 中等 |
 |	543.二叉树的直径 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Binary%20Tree/0543.diameter_of_binary_tree.md) | 二叉树、DFS | 简单 |
 |	662.二叉树最大宽度 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Binary%20Tree/0662.maximum_width_of_binary_tree.md) | 二叉树、DFS、BFS | 中等 |
@@ -393,6 +396,7 @@ Solve LeetCode by JS &amp; Python
 |	320.列举单词的全部缩写 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Backtracking/0320.generalized_abbreviation.md) | 字符串、回溯 | 中等 |
 |	473.火柴拼正方形 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Backtracking/0473.matchsticks_to_square.md) | 数组、回溯 | 中等 |
 |	491.非递减子序列 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Backtracking/0491.non-decreasing_subsequences.md) | 排列组合，回溯 | 中等 |
+|	679.24 点游戏 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Backtracking/0679.24_game.md) | 数组、回溯 | 困难 |
 |	784.字母大小写全排列 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Backtracking/0784.letter_case_permutation.md) | 字符串、回溯 | 中等 |
 |	1593.拆分字符串使唯一子字符串的数目最大 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Backtracking/1593.split_a_string_into_the_max_number_of_unique_substrings.md) | 字符串、回溯 | 中等 |
 
@@ -417,6 +421,7 @@ Solve LeetCode by JS &amp; Python
 |	416.分割等和子集 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Dynamic%20Programming/0416.partition_equal_subset_sum.md) | 数组、动态规划 | 中等 |
 |	474.一和零 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Dynamic%20Programming/0474.ones_and_zeroes.md) | 数组、动态规划 | 中等 |
 |	516.最长回文子序列 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Dynamic%20Programming/0516.longest_palindromic_subsequence.md) | 字符串、动态规划 | 中等 |
+|	518.零钱兑换 II | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Dynamic%20Programming/0518.coin_change_II.md) | 数组、动态规划 | 中等 |
 |	1143.最长公共子序列 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Dynamic%20Programming/1143.longest_common_subsequence.md) | 动态规划 | 中等 |
 
 ## Multiple Ideas
@@ -456,6 +461,7 @@ Solve LeetCode by JS &amp; Python
 |	316.去除重复字母 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Multiple_Ideas/0316.remove_duplicate_letters.md) | 字符串、栈、贪心 | 中等 |
 |	322.零钱兑换 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Multiple_Ideas/0322.coin_change.md) | 动态规划、BFS | 中等 |
 |	329.矩阵中的最长递增路径 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Multiple_Ideas/0329.longest_increasing_path_in_a_matrix.md) | 记忆化 DFS、拓扑排序 | 困难 |
+|	343.整数拆分 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Multiple_Ideas/0343.integer_break.md) | 动态规划、数学 | 中等 |
 |	347.前 K 个高频元素 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Multiple_Ideas/0347.top_K_frequent_elements.md) | 数组、哈希表、优先级队列 | 中等 |
 |	365.水壶问题 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Multiple_Ideas/0365.water_and_jug_problem.md) | 数学、BFS | 中等 |
 |	378.有序矩阵中第 K 小的元素 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Multiple_Ideas/0378.Kth_smallest_element_in_a_sorted_matrix.md) | 矩阵、链表双指针、二分查找、优先级队列（堆）| 中等 |
