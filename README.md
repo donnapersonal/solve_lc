@@ -287,7 +287,7 @@ Solve LeetCode by JS &amp; Python
 |	2685.统计完全连通分量的数量 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Graph/2685.count_the_number_of_complete_components.md) | DFS、Union-Find | 中等 |
 |	3341.到达最后一个房间的最少时间 I | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Graph/3341.find_minimum_time_to_reach_last_room_I.md) | Dijkstra | 中等 |
 
-## Tree
+## Binary Tree
 
 | 题目 | 题解 | 标签 | 难度 |
 |	--- |	--- | --- | --- |
