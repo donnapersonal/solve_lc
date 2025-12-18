@@ -183,6 +183,7 @@ Solve LeetCode by JS &amp; Python
 |	--- |	--- | --- | --- |
 |	2.两数相加 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Simulation_Design/0002.add_two_numbers.md) | 链表、模拟 | 中等 |
 |	6.Z 字形变换 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Simulation_Design/0006.zigzag_conversion.md) | 字符串、模拟 | 中等 |
+|	43.字符串相乘 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Simulation_Design/0043.multiply_strings.md) | 字符串、模拟 | 中等 |
 |	48.旋转图像 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Simulation_Design/0048.rotate_image.md) | 数组、数学、矩阵 | 中等 |
 |	54.螺旋矩阵 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Simulation_Design/0054.spiral_matrix.md) | 数组、数学、矩阵 | 中等 |
 |	59.螺旋矩阵 II | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Simulation_Design/0059.spiral_matrix_II.md) | 矩阵、模拟 | 中等 |
@@ -226,6 +227,7 @@ Solve LeetCode by JS &amp; Python
 |	946.验证栈序列 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Stack/0946.validate_stack_sequences.md) | 数组、栈、单调栈 | 中等 |
 |	962.最大宽度坡 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Stack/0962.maximum_width_ramp.md) | 数组、栈、单调栈 | 中等 |
 |	1019.链表中的下一个更大节点 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Stack/1019.next_greater_node_in_linked_list.md) | 链表、单调栈 | 中等 |
+|	1081.不同字符的最小子序列 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Stack/1081.smallest_subsequence_of_distinct_characters.md) | 字符串、单调栈 | 中等 |
 |	1249.移除无效的括号 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Stack/1249.minimum_remove_to_make_valid_parentheses.md) | 数组、栈 | 中等 |
 
 ## Queue & Heap & PQ
@@ -243,7 +245,8 @@ Solve LeetCode by JS &amp; Python
 |	502.IPO | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Queue_Heap_PQ/0502.IPO.md) | 数组、堆（优先级队列） | 困难 |
 |	630.课程表 III | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Queue_Heap_PQ/0630.course_schedule_III.md) | 数组、优先级队列（堆）+ 贪心 | 困难 |
 |	632.最小区间 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Queue_Heap_PQ/0632.smallest_range_covering_elements_from_K_lists.md) | 数组、堆、最小堆 | 困难 |
-|	2944.购买水果需要的最少金币数 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Queue_Heap_PQ/2944.minimum_number_of_coins_for_fruits.md) | 数组、单调队列 | 中等 |
+|	632.最小区间 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Queue_Heap_PQ/0632.smallest_range_covering_elements_from_K_lists.md) | 数组、堆、最小堆 | 困难 |
+|	2679.矩阵中的和 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Queue_Heap_PQ/2679.sum_in_a_matrix.md) | 数组、优先队列 | 中等 |
 
 ## Trie
 
@@ -276,6 +279,7 @@ Solve LeetCode by JS &amp; Python
 |	695.岛屿的最大面积 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Graph/0695.max_area_of_island.md) | DFS、BFS | 中等 |
 |	733.图像渲染 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Graph/0733.flood_fill.md) | DFS、BFS | 简单 |
 |	743.网络延迟时间 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Graph/0743.network_delay_time.md) | Dijkstra | 中等 |
+|	785.网络延迟时间 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Graph/0785.is_graph_bipartite.md) | Dijkstra | 中等 |
 |	797.所有可能的路径 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Graph/0797.all_paths_from_source_to_target.md) | DFS | 中等 |
 |	815.公交路线 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Graph/0815.bus_routes.md) | 图论 + BFS | 困难 |
 |	834.树中距离之和 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Graph/0834.sum_of_distances_in_tree.md) | BFS | 困难 |
@@ -288,7 +292,9 @@ Solve LeetCode by JS &amp; Python
 |	1162.地图分析 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Graph/1162.as_far_from_land_as_possible.md) | BFS | 中等 |
 |	1203.项目管理 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Graph/1203.sort_items_by_groups_respecting_dependencies.md) | 拓扑排序 | 困难 |
 |	1293.网格中的最短路径 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Graph/1293.Shortest_path_in_a_grid_with_obstacles_elimination.md) | BFS |困难 |
+|	1298.你能从盒子里获得的最大糖果数 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Graph/1298.maximum_candies_you_can_get_from_boxes.md) | BFS |困难 |
 |	1334.阈值距离内邻居最少的城市 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Graph/1334.find_the_city_with_the_smallest_number_of_neighbors_at_a_threshold_distance.md) | Floyd、Dijkstra | 中等 |
+|	1976.到达目的地的方案数 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Graph/1976.number_of_ways_to_arrive_at_destination.md) | Topological Sort | 中等 |
 |	2101.引爆最多的炸弹 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Graph/2101.detonate_the_maximum_bombs.md) | DFS、Floyd | 中等 |
 |	2685.统计完全连通分量的数量 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Graph/2685.count_the_number_of_complete_components.md) | DFS、Union-Find | 中等 |
 |	2924. 寻找冠军 II | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Graph/2924.find_champion_II.md) |  | 中等 |
@@ -324,14 +330,18 @@ Solve LeetCode by JS &amp; Python
 |	230.二叉搜索树中第 K 小的元素 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Binary%20Tree/0230.Kth_smallest_element_in_a_BST.md) | 二叉树、递归、迭代 | 中等 |
 |	235.二叉搜索树的最近公共祖先 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Binary%20Tree/0235.lowest_common_ancestor_of_a_binary_search_tree.md) | 二叉树、递归、迭代 | 中等 |
 |	236.二叉树的最近公共祖先 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Binary%20Tree/0236.lowest_common_ancestor_of_a_binary_tree.md) | 二叉树、递归、迭代 | 中等 |
+|	297.二叉树的序列化与反序列化 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Binary%20Tree/0297.serialize_and_deserialize_binary_tree.md) | 二叉树、DFS、层序遍历 | 困难 |
 |	310.最小高度树 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Binary%20Tree/0310.minimum_height_trees.md) | 二叉树、BFS、拓扑排序 | 中等 |
 |	314.二叉树的垂直遍历 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Binary%20Tree/0314.binary_tree_vertical_order_traversal.md) | 二叉树、BFS、DFS | 中等 |
+|	426.将二叉搜索树转化为排序的双向链表 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Binary%20Tree/0426.convert_binary_search_tree_to_sorted_doubly_linked_list.md) | 二叉树、递归 | 中等 |
+|	427.建立四叉树 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Binary%20Tree/0427.construc_quad_tree.md) | 二叉树、递归 | 中等 |
 |	437.路径总和 III | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Binary%20Tree/0437.path_sum_III.md) | 二叉树、DFS | 中等 |
 |	513.找树左下角的值 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Binary%20Tree/0513.find_bottom_left_tree_value.md) | 二叉树、DFS、BFS | 中等 |
 |	543.二叉树的直径 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Binary%20Tree/0543.diameter_of_binary_tree.md) | 二叉树、DFS | 简单 |
 |	662.二叉树最大宽度 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Binary%20Tree/0662.maximum_width_of_binary_tree.md) | 二叉树、DFS、BFS | 中等 |
 |	654.最大二叉树 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Binary%20Tree/0654.maximum_binary_tree.md) | 二叉树、递归 | 中等 |
 |	863.二叉树中所有距离为 K 的结点 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Binary%20Tree/0863.all_nodes_distance_K_in_binary_tree.md) | 二叉树、BFS、DFS | 中等 |
+|	968.监控二叉树 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Binary%20Tree/0968.binary_tree_cameras.md) | 二叉树、动态规划 | 困难 |
 |	1123.最深叶节点的最近公共祖先 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Binary%20Tree/1123.lowest_common_ancestor_of_deepest_leaves.md) | 二叉树、递归 | 中等 |
 
 ## Math
@@ -440,7 +450,9 @@ Solve LeetCode by JS &amp; Python
 |	638.大礼包 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Dynamic%20Programming/0638.shopping_offers.md) | 数组、记忆化搜索 | 中等 |
 |	740.删除并获得点数 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Dynamic%20Programming/0740.delete_and_earn.md) | 数组、动态规划 | 中等 |
 |	983.最低票价| [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Dynamic%20Programming/0983.minimum_cost_for_tickets.md) | 数组、动态规划 | 中等 |
+|	1027.最长等差数列 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Dynamic%20Programming/1027.longest_arithmetic_subsequencen.md) | 数组、动态规划 | 中等 |
 |	1143.最长公共子序列 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Dynamic%20Programming/1143.longest_common_subsequence.md) | 动态规划 | 中等 |
+|	3186.施咒的最大总伤害 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Dynamic%20Programming/3186.maximum_total_damage_with_spell_casting.md) | 数组、动态规划 | 中等 |
 
 ## Multiple Ideas
 
@@ -485,7 +497,9 @@ Solve LeetCode by JS &amp; Python
 |	378.有序矩阵中第 K 小的元素 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Multiple_Ideas/0378.Kth_smallest_element_in_a_sorted_matrix.md) | 矩阵、链表双指针、二分查找、优先级队列（堆）| 中等 |
 |	451.根据字符出现频率排序 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Multiple_Ideas/0451.sort_characters_by_frequency.md) | 字符串、优先级队列（二叉堆）、桶排序| 中等 |
 |	547.省份数量 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Multiple_Ideas/0547.number_of_provinces.md) | DFS、BFS、并查集 | 中等 |
+|	647.回文子串 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Multiple_Ideas/0647.palindromic_substrings.md) | 字符串、动态规划、双指针中心扩展、Manacher 算法 | 中等 |
 |	787.K 站中转内最便宜的航班 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Multiple_Ideas/0787.cheapest_flights_within_K_stop.md) | Dijkstra、Bellman Ford | 中等 |
 |	918.环形子数组的最大和 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Multiple_Ideas/0918.maximum_sum_circular_subarray.md) | 数组、环形数组、分治、动态规划、单调队列 | 中等 |
 |	921.使括号有效的最少添加 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Multiple_Ideas/0921.minimum_add_to_make_parentheses_valid.md) | 字符串、栈、贪心 | 中等 |
+|	973.最接近原点的 K 个点 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Multiple_Ideas/0973.K_closest_points_to_origin.md) | 数组、贪心、动态规划 | 中等 |
 |	2982.找出出现至少三次的最长特殊子字符串 II | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Multiple_Ideas/2982.find_longest_special_substring_that_occurs_thrice_II.md) | 字符串、二分答案、滑动窗口计数、一次遍历 | 中等 |
