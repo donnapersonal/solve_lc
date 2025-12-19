@@ -184,6 +184,7 @@ Solve LeetCode by JS &amp; Python
 |	--- |	--- | --- | --- |
 |	2.两数相加 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Simulation_Design/0002.add_two_numbers.md) | 链表、模拟 | 中等 |
 |	6.Z 字形变换 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Simulation_Design/0006.zigzag_conversion.md) | 字符串、模拟 | 中等 |
+|	8.字符串转换整数 (atoi) | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Simulation_Design/0008.string_to_integer_(atoi).md) | 数学、模拟 | 中等 |
 |	43.字符串相乘 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Simulation_Design/0043.multiply_strings.md) | 字符串、模拟 | 中等 |
 |	48.旋转图像 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Simulation_Design/0048.rotate_image.md) | 数组、数学、矩阵 | 中等 |
 |	54.螺旋矩阵 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Simulation_Design/0054.spiral_matrix.md) | 数组、数学、矩阵 | 中等 |
@@ -464,6 +465,7 @@ Solve LeetCode by JS &amp; Python
 |	1696.跳跃游戏 VI | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Dynamic%20Programming/1696.jump_game_VI.md) | 数组、单调队列、动态规划 | 中等 |
 |	2297.跳跃游戏 VIII | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Dynamic%20Programming/2297.jump_game_VIII.md) | 数组、单调栈、动态规划 | 中等 |
 |	3186.施咒的最大总伤害 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Dynamic%20Programming/3186.maximum_total_damage_with_spell_casting.md) | 数组、动态规划 | 中等 |
+|	3291.形成目标字符串需要的最少字符串数 I | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Dynamic%20Programming/3291.minimum_number_of_valid_strings_to_form_target_I.md) | 数组、字符串、动态规划 | 中等 |
 
 ## Multiple Ideas
 
@@ -511,6 +513,7 @@ Solve LeetCode by JS &amp; Python
 |	547.省份数量 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Multiple_Ideas/0547.number_of_provinces.md) | DFS、BFS、Union-Find | 中等 |
 |	647.回文子串 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Multiple_Ideas/0647.palindromic_substrings.md) | 字符串、动态规划、双指针中心扩展、Manacher 算法 | 中等 |
 |	673.最长递增子序列的个数 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Multiple_Ideas/0673.number_of_longest_increasing_subsequence.md) | 动态规划、贪心+前缀和+二分查找 | 中等 |
+|	721.账户合并 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Multiple_Ideas/0721.accounts_merge.md) | 数组、BFS、DFS、Union-find | 中等 |
 |	787.K 站中转内最便宜的航班 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Multiple_Ideas/0787.cheapest_flights_within_K_stop.md) | Dijkstra、Bellman Ford | 中等 |
 |	918.环形子数组的最大和 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Multiple_Ideas/0918.maximum_sum_circular_subarray.md) | 数组、环形数组、分治、动态规划、单调队列 | 中等 |
 |	921.使括号有效的最少添加 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Multiple_Ideas/0921.minimum_add_to_make_parentheses_valid.md) | 字符串、栈、贪心 | 中等 |
