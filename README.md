@@ -202,6 +202,8 @@ Solve LeetCode by JS &amp; Python
 |	622.设计循环队列 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Simulation_Design/0622.design_circular_queue.md) | 设计、数据结构 | 中等 |
 |	642.设计搜索自动补全系统 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Simulation_Design/0642.design_search_autocomplete_system.md) | 设计、字典树 | 困难 |
 |	1041.困于环中的机器人 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Simulation_Design/1041.robot_bounded_in_circle.md) | 字符串、模拟 | 中等 |
+|	1472.设计浏览器历史记录 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Simulation_Design/1472.design_browser_history.md) | 设计、模拟 | 中等 |
+|	2807.在链表中插入最大公约数 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Simulation_Design/2807.inser_greatest_common_divisor_in_linked_list.md) | 设计、模拟 | 中等 |
 |	3408.设计任务管理器 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Simulation_Design/3408.design_task_manager.md) | 设计、堆、哈希 | 中等 |
 
 ## Stack
@@ -444,6 +446,8 @@ Solve LeetCode by JS &amp; Python
 |	97.交错字符串 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Dynamic%20Programming/0097.interleaving_string.md) | 字符串、动态规划 | 中等 |
 |	115.不同的子序列 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Dynamic%20Programming/0115.distinct_subsequences.md) | 动态规划 | 困难 |
 |	120.三角形最小路径和 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Dynamic%20Programming/0120.triangle.md) | 数组、动态规划 | 中等 |
+|	123.买卖股票的最佳时机 III | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Dynamic%20Programming/0123.best_time_to_buy_and_sell_stock_III.md) | 动态规划 | 困难 |
+|	132.分割回文串 II | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Dynamic%20Programming/0132.palindrome_partitioning_II.md) | 动态规划 | 困难 |
 |	139.单词拆分 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Dynamic%20Programming/0139.word_break.md) | 动态规划 | 中等 |
 |	152.乘积最大子数组 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Dynamic%20Programming/0152.maximum_product_subarray.md) | 数组、动态规划 | 中等 |
 |	198.打家劫舍 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Dynamic%20Programming/0198.house_robber.md) | 动态规划 | 中等 |
@@ -510,13 +514,16 @@ Solve LeetCode by JS &amp; Python
 |	365.水壶问题 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Multiple_Ideas/0365.water_and_jug_problem.md) | 数学、BFS | 中等 |
 |	378.有序矩阵中第 K 小的元素 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Multiple_Ideas/0378.Kth_smallest_element_in_a_sorted_matrix.md) | 矩阵、链表双指针、二分查找、优先级队列（堆）| 中等 |
 |	451.根据字符出现频率排序 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Multiple_Ideas/0451.sort_characters_by_frequency.md) | 字符串、优先级队列（二叉堆）、桶排序| 中等 |
+|	475.供暖器 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Multiple_Ideas/0475.heaters.md) | 数组、排序+二分查找、排序+双指针 | 中等 |
 |	547.省份数量 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Multiple_Ideas/0547.number_of_provinces.md) | DFS、BFS、Union-Find | 中等 |
 |	647.回文子串 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Multiple_Ideas/0647.palindromic_substrings.md) | 字符串、动态规划、双指针中心扩展、Manacher 算法 | 中等 |
 |	673.最长递增子序列的个数 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Multiple_Ideas/0673.number_of_longest_increasing_subsequence.md) | 动态规划、贪心+前缀和+二分查找 | 中等 |
 |	721.账户合并 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Multiple_Ideas/0721.accounts_merge.md) | 数组、BFS、DFS、Union-find | 中等 |
+|	729.我的日程安排表 I | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Multiple_Ideas/0729.my_calendar_I.md) | 设计、直接遍历、二分查找、线段树 | 中等 |
 |	787.K 站中转内最便宜的航班 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Multiple_Ideas/0787.cheapest_flights_within_K_stop.md) | Dijkstra、Bellman Ford | 中等 |
 |	918.环形子数组的最大和 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Multiple_Ideas/0918.maximum_sum_circular_subarray.md) | 数组、环形数组、分治、动态规划、单调队列 | 中等 |
 |	921.使括号有效的最少添加 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Multiple_Ideas/0921.minimum_add_to_make_parentheses_valid.md) | 字符串、栈、贪心 | 中等 |
 |	973.最接近原点的 K 个点 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Multiple_Ideas/0973.K_closest_points_to_origin.md) | 数组、贪心、动态规划 | 中等 |
 |	1297.子串的最大出现次数 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Multiple_Ideas/1297.maximum_number_of_occurrences_of_a_substring.md) | 字符串、滑动窗口、滚动哈希 | 中等 |
+|	2711.对角线上不同值的数量差 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Multiple_Ideas/2711.difference_of_number_of_distinct_values_on_diagonals.md) | 矩阵、模拟、前缀和 | 中等 |
 |	2982.找出出现至少三次的最长特殊子字符串 II | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Multiple_Ideas/2982.find_longest_special_substring_that_occurs_thrice_II.md) | 字符串、二分答案、滑动窗口计数、一次遍历 | 中等 |
