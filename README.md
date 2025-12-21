@@ -98,6 +98,7 @@ Solve LeetCode by JS &amp; Python
 |	0142 | Linked List Cycle II | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Two_pointers/0142.linked_list_cycle_II.md) | 链表、双指针 | 中等 |
 |	151.反转字符串中的单词 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Two%20Pointers/0151.reverse_words_in_a_string.md) | 字符串、双指针 | 中等 |
 |	160.相交链表 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/8589cf5abb783b9fc3b813e3e92ce4934475614e/Two%20Pointers/0160.intersection_of_two_linked_lists.md) | 链表、双指针 | 简单 |
+|	161.相隔为 1 的编辑距离| [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Two%20Pointers/0161.one_edit_distance.md) | 字符串、双指针 | 中等 |
 |	0167 | 167.两数之和 II - 输入有序数组 | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Two_pointers/0167.two_sum_II-input_array_is_sorted.md) | 数组、双指针 | 中等 |
 |	189.轮转数组 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Two%20Pointers/0189.potate_array.md) | 数组、双指针 + 数组翻转 | 中等 |
 |	234.回文链表 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/3dd0b7e7c7821210045c448146f8f3eb8d544b2d/Two%20Pointers/0234.palindrome_linked_list.md) | 链表、双指针 | 简单 |
@@ -113,6 +114,7 @@ Solve LeetCode by JS &amp; Python
 |	977.有序数组的平方 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Two%20Pointers/0977.squares_of_a_sorted_array.md) | 数组、双指针 | 简单 |
 |	986.区间列表的交集 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Two%20Pointers/0986.interval_list_intersections.md) | 数组、双指针 | 中等 |
 |	1768.交替合并字符串 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Two%20Pointers/1768.merge_strings_alternately.md) | 字符串、双指针 | 简单 |
+|	1868.两个行程编码数组的积 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Two%20Pointers/1868.product_of_two_run-length_encoded_arrays.md) | 数组、双指针 | 中等 |
 |	2193.得到回文串的最少操作次数 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Two%20Pointers/2193.minimum_number_of_moves_to_make_palindrome.md) | 双指针、贪心 | 困难 |
 |	3239.最少翻转次数使二进制矩阵回文 I | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Two%20Pointers/3239.minimum_number_of_flips_to_make_binary_grid_palindromic_I.md) | 矩阵、双指针 | 中等 |
 
@@ -129,6 +131,7 @@ Solve LeetCode by JS &amp; Python
 |	442.数组中重复的数据 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Hashing/0442.find_all_duplicates_in_an_array.md) | 数组、哈希表 | 中等 |
 |	454.四数相加 II | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Hashing/0454.4Sum_II.md) | 数组、哈希表 | 中等 |
 |	745.前缀和后缀搜索 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Hashing/0745.prefix_and_suffix_search.md) | 设计、字典树 | 困难 |
+|	1570.两个稀疏向量的点积 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Hashing/1570.dot_product_of_two_sparse_vectors.md) | 数组、哈希 | 中等 |
 
 ## Prefix Sum
 
@@ -240,7 +243,7 @@ Solve LeetCode by JS &amp; Python
 |	962.最大宽度坡 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Stack/0962.maximum_width_ramp.md) | 数组、栈、单调栈 | 中等 |
 |	1019.链表中的下一个更大节点 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Stack/1019.next_greater_node_in_linked_list.md) | 链表、单调栈 | 中等 |
 |	1081.不同字符的最小子序列 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Stack/1081.smallest_subsequence_of_distinct_characters.md) | 字符串、单调栈 | 中等 |
-|	1249.移除无效的括号 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Stack/1249.minimum_remove_to_make_valid_parentheses.md) | 数组、栈 | 中等 |
+|	1762.能看到海景的建筑物 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Stack/1762.buildings_with_an_ocean_view.md) | 数组、栈、单调栈 | 中等 |
 
 ## Queue & Heap & PQ
 
@@ -282,6 +285,7 @@ Solve LeetCode by JS &amp; Python
 |	212.单词搜索 II | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Graph/0212.word_search_II.md) | DFS | 困难 |
 |	261.以图判树 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Graph/0261.graph_valid_tree.md) | Union-Find | 中等 |
 |	269.火星词典 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Graph/0269.alien_dictionary.md) | 拓扑排序 | 困难 |
+|	286.墙与门 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Graph/0286.walls_and_gates.md) | BFS | 困难 |
 |	323.无向图中连通分量的数目 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Graph/0323.number_of_connected_components_in_an_undirected_graph.md) | BFS、DFS、Union-Find | 中等 |
 |	332.重新安排行程y | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Graph/0332.reconstruct_itinerary.md) | 图论、DFS、Hierholzer’s Algorithm | 困难 |
 |	399.除法求值 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Graph/0399.evaluate_division.md) | BFS | 中等 |
@@ -358,6 +362,7 @@ Solve LeetCode by JS &amp; Python
 |	863.二叉树中所有距离为 K 的结点 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Binary%20Tree/0863.all_nodes_distance_K_in_binary_tree.md) | 二叉树、BFS、DFS | 中等 |
 |	968.监控二叉树 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Binary%20Tree/0968.binary_tree_cameras.md) | 二叉树、动态规划 | 困难 |
 |	1123.最深叶节点的最近公共祖先 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Binary%20Tree/1123.lowest_common_ancestor_of_deepest_leaves.md) | 二叉树、递归 | 中等 |
+|	2265.统计值等于子树平均值的节点数 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Binary%20Tree/2265.count_nodes_equal_to_average_of_subtree.md) | 二叉树、DFS | 中等 |
 
 ## Math
 
@@ -460,6 +465,7 @@ Solve LeetCode by JS &amp; Python
 |	198.打家劫舍 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Dynamic%20Programming/0198.house_robber.md) | 动态规划 | 中等 |
 |	213.打家劫舍 II | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Dynamic%20Programming/0213.house_robber_II.md) | 动态规划 | 中等 |
 |	221.最大正方形 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Dynamic%20Programming/0221.maximal_square.md) | 动态规划 | 中等 |
+|	265.粉刷房子 II | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Dynamic%20Programming/0265.paint_house_II.md) | 动态规划 | 困难 |
 |	309.买卖股票的最佳时机含冷冻期 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Dynamic%20Programming/0309.best_time_to_buy_and_sell_stock_with_cooldown.md) | 动态规划 | 中等 |
 |	337.打家劫舍 III | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Dynamic%20Programming/0337.house_robber_III.md) | 动态规划 | 中等 |
 |	354.俄罗斯套娃信封问题 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Dynamic%20Programming/0354.russian_doll_envelopes.md) | 动态规划 | 困难 |
@@ -475,6 +481,7 @@ Solve LeetCode by JS &amp; Python
 |	887.鸡蛋掉落 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Dynamic%20Programming/0887.super_egg_drop.md) | 字符串、动态规划 | 困难 |
 |	983.最低票价| [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Dynamic%20Programming/0983.minimum_cost_for_tickets.md) | 数组、动态规划 | 中等 |
 |	1027.最长等差数列 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Dynamic%20Programming/1027.longest_arithmetic_subsequencen.md) | 数组、动态规划 | 中等 |
+|	1027.最长等差数列 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Dynamic%20Programming/1049.last_stone_weight_II.md) | 数组、动态规划 | 中等 |
 |	1143.最长公共子序列 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Dynamic%20Programming/1143.longest_common_subsequence.md) | 动态规划 | 中等 |
 |	1235.规划兼职工作 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Dynamic%20Programming/1235.maximum_profit_in_job_scheduling.md) | 数组、动态规划 | 困难 |
 |	1696.跳跃游戏 VI | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Dynamic%20Programming/1696.jump_game_VI.md) | 数组、单调队列、动态规划 | 中等 |
