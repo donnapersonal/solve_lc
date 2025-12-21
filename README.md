@@ -201,9 +201,12 @@ Solve LeetCode by JS &amp; Python
 |	460.LFU 缓存 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Simulation_Design/0460.LFU_cache.md) | 设计、数据结构 | 困难 |
 |	468.验证IP地址 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Simulation_Design/0468.validate_IP_address.md) | 模拟 | 中等 |
 |	498.对角线遍历 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Simulation_Design/0498.diagonal_traverse.md) | 模拟 | 中等 |
+|	535.TinyURL 的加密与解密| [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Simulation_Design/0535.encode_and_decode_tinyURL.md) | 设计、哈希 | 中等 |
 |	622.设计循环队列 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Simulation_Design/0622.design_circular_queue.md) | 设计、数据结构 | 中等 |
 |	642.设计搜索自动补全系统 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Simulation_Design/0642.design_search_autocomplete_system.md) | 设计、字典树 | 困难 |
+|	707.设计链表 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Simulation_Design/0707.design_linked_list.md) | 链表、设计 | 中等 |
 |	1041.困于环中的机器人 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Simulation_Design/1041.robot_bounded_in_circle.md) | 字符串、模拟 | 中等 |
+|	1206.设计跳表 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Simulation_Design/1206.design_skiplist.md) | 设计、数据结构 | 困难 |
 |	1472.设计浏览器历史记录 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Simulation_Design/1472.design_browser_history.md) | 设计、模拟 | 中等 |
 |	2807.在链表中插入最大公约数 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Simulation_Design/2807.inser_greatest_common_divisor_in_linked_list.md) | 设计、模拟 | 中等 |
 |	3408.设计任务管理器 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Simulation_Design/3408.design_task_manager.md) | 设计、堆、哈希 | 中等 |
@@ -225,6 +228,7 @@ Solve LeetCode by JS &amp; Python
 |	456.132 模式 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Stack/0456.132_pattern.md) | 数组、单调栈 | 中等 |
 |	496.下一个更大元素 I | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Stack/0496.next_greater_element_I.md) | 数组、栈、单调栈 | 简单 |
 |	503.下一个更大元素 II | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Stack/0503.next_greater_element_II.md) | 数组、栈、单调栈 | 中等 |
+|	636.函数的独占时间 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Stack/0636.exclusive_time_of_functions.md) | 数组、栈 | 中等 |
 |	726.原子的数量 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Stack/0726.number_of_atoms.md) | 字符串、栈 | 困难 |
 |	735.小行星碰撞 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Stack/0735.asteroid_collision.md) | 数组、栈 | 中等 |
 |	739.每日温度 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Stack/0739.daily_temperatures.md) | 数组、栈、单调栈 | 中等 |
@@ -467,9 +471,12 @@ Solve LeetCode by JS &amp; Python
 |	518.零钱兑换 II | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Dynamic%20Programming/0518.coin_change_II.md) | 数组、动态规划 | 中等 |
 |	638.大礼包 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Dynamic%20Programming/0638.shopping_offers.md) | 数组、记忆化搜索 | 中等 |
 |	740.删除并获得点数 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Dynamic%20Programming/0740.delete_and_earn.md) | 数组、动态规划 | 中等 |
+|	828.统计子串中的唯一字符 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Dynamic%20Programming/0828.coun_unique_characters_of_all_substrings_of_a_given_string.md) | 字符串、动态规划 | 困难 |
+|	887.鸡蛋掉落 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Dynamic%20Programming/0887.super_egg_drop.md) | 字符串、动态规划 | 困难 |
 |	983.最低票价| [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Dynamic%20Programming/0983.minimum_cost_for_tickets.md) | 数组、动态规划 | 中等 |
 |	1027.最长等差数列 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Dynamic%20Programming/1027.longest_arithmetic_subsequencen.md) | 数组、动态规划 | 中等 |
 |	1143.最长公共子序列 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Dynamic%20Programming/1143.longest_common_subsequence.md) | 动态规划 | 中等 |
+|	1235.规划兼职工作 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Dynamic%20Programming/1235.maximum_profit_in_job_scheduling.md) | 数组、动态规划 | 困难 |
 |	1696.跳跃游戏 VI | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Dynamic%20Programming/1696.jump_game_VI.md) | 数组、单调队列、动态规划 | 中等 |
 |	2297.跳跃游戏 VIII | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Dynamic%20Programming/2297.jump_game_VIII.md) | 数组、单调栈、动态规划 | 中等 |
 |	3186.施咒的最大总伤害 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Dynamic%20Programming/3186.maximum_total_damage_with_spell_casting.md) | 数组、动态规划 | 中等 |
@@ -519,11 +526,14 @@ Solve LeetCode by JS &amp; Python
 |	365.水壶问题 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Multiple_Ideas/0365.water_and_jug_problem.md) | 数学、BFS | 中等 |
 |	378.有序矩阵中第 K 小的元素 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Multiple_Ideas/0378.Kth_smallest_element_in_a_sorted_matrix.md) | 矩阵、链表双指针、二分查找、优先级队列（堆）| 中等 |
 |	398.随机数索引 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Multiple_Ideas/0398.random_pick_index.md) | 数组、哈希、数学 | 中等 |
+|	421.数组中两个数的最大异或值 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Multiple_Ideas/0421.maximum_XOR_of_two_numbers_in_an_array.md) | 数组、位运算、字典树、哈希表 | 中等 |
 |	451.根据字符出现频率排序 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Multiple_Ideas/0451.sort_characters_by_frequency.md) | 字符串、优先级队列（二叉堆）、桶排序| 中等 |
 |	475.供暖器 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Multiple_Ideas/0475.heaters.md) | 数组、排序+二分查找、排序+双指针 | 中等 |
 |	547.省份数量 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Multiple_Ideas/0547.number_of_provinces.md) | DFS、BFS、Union-Find | 中等 |
 |	647.回文子串 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Multiple_Ideas/0647.palindromic_substrings.md) | 字符串、动态规划、双指针中心扩展、Manacher 算法 | 中等 |
 |	673.最长递增子序列的个数 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Multiple_Ideas/0673.number_of_longest_increasing_subsequence.md) | 动态规划、贪心+前缀和+二分查找 | 中等 |
+|	678.有效的括号字符串 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Multiple_Ideas/0678.vali_parenthesis_string.md) | 字符串、栈、贪心 | 中等 |
+|	720.词典中最长的单词 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Multiple_Ideas/0720.longest_word_in_dictionary.md) | 数组、字典树、哈希表、排序 | 中等 |
 |	721.账户合并 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Multiple_Ideas/0721.accounts_merge.md) | 数组、BFS、DFS、Union-find | 中等 |
 |	729.我的日程安排表 I | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Multiple_Ideas/0729.my_calendar_I.md) | 设计、直接遍历、二分查找、线段树 | 中等 |
 |	787.K 站中转内最便宜的航班 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Multiple_Ideas/0787.cheapest_flights_within_K_stop.md) | Dijkstra、Bellman Ford | 中等 |
