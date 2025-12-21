@@ -146,6 +146,7 @@ Solve LeetCode by JS &amp; Python
 |	--- |	--- | --- | --- |
 |	13.罗马数字转整数 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Scan/0013.roman_to_integer.md) | 数组、线性扫描 | 简单 |
 |	14.最长公共前缀 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Scan/0014.longest_common_prefix.md) | 数组、垂直扫描 | 简单 |
+|	38.外观数列 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Scan/0038.count_and_say.md) | 数组、扫描、遍历、枚举 | 中等 |
 |	57.插入区间 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Scan/0057.insert_interval.md) | 数组、扫描 | 中等 |
 |	58.最后一个单词的长度 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Scan/0058.length_of_last_word.md) | 字符串、线性扫描 | 简单 |
 |	82.删除排序链表中的重复元素 II | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Scan/0082.remove_duplicates_from_sorted_list_II.md) | 链表、扫描 | 中等 |
@@ -241,6 +242,7 @@ Solve LeetCode by JS &amp; Python
 
 | 题目 | 题解 | 标签 | 难度 |
 |	--- |	--- | --- | --- |
+|	218.天际线问题 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Queue_Heap_PQ/0218.the_skyline_problem.md) | 优先队列、扫描线 | 困难 |
 |	225.用队列实现栈 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Queue_Heap_PQ/0225.implement_stack_using_queues.md) | 设计、队列 | 简单 |
 |	232.用栈实现队列 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Queue_Heap_PQ/0232.implement_queue_using_stacks.md) | 设计、队列 | 简单 |
 |	239.滑动窗口最大值 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Queue_Heap_PQ/0239.sliding_window_maximum.md) | 数组、队列、单调队列、优先级队列（堆）| 困难 |
@@ -251,7 +253,6 @@ Solve LeetCode by JS &amp; Python
 |	480.滑动窗口中位数 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Queue_Heap_PQ/0480.sliding_window_median.md) | 数组、优先级队列（堆）+ 哈希表 + 滑动窗口 | 困难 |
 |	502.IPO | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Queue_Heap_PQ/0502.IPO.md) | 数组、堆（优先级队列） | 困难 |
 |	630.课程表 III | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Queue_Heap_PQ/0630.course_schedule_III.md) | 数组、优先级队列（堆）+ 贪心 | 困难 |
-|	632.最小区间 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Queue_Heap_PQ/0632.smallest_range_covering_elements_from_K_lists.md) | 数组、堆、最小堆 | 困难 |
 |	632.最小区间 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Queue_Heap_PQ/0632.smallest_range_covering_elements_from_K_lists.md) | 数组、堆、最小堆 | 困难 |
 |	1439.有序矩阵中的第 k 个最小数组和 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Queue_Heap_PQ/1439.find_the_Kth_smallest_sum_of_a_matrix_with_sorted_rows.md) | 数组、堆 | 困难 |
 |	2679.矩阵中的和 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Queue_Heap_PQ/2679.sum_in_a_matrix.md) | 数组、优先队列 | 中等 |
@@ -457,6 +458,7 @@ Solve LeetCode by JS &amp; Python
 |	221.最大正方形 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Dynamic%20Programming/0221.maximal_square.md) | 动态规划 | 中等 |
 |	309.买卖股票的最佳时机含冷冻期 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Dynamic%20Programming/0309.best_time_to_buy_and_sell_stock_with_cooldown.md) | 动态规划 | 中等 |
 |	337.打家劫舍 III | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Dynamic%20Programming/0337.house_robber_III.md) | 动态规划 | 中等 |
+|	354.俄罗斯套娃信封问题 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Dynamic%20Programming/0354.russian_doll_envelopes.md) | 动态规划 | 困难 |
 |	368.最大整除子集 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Dynamic%20Programming/0368.largest_divisible_subset.md) | 动态规划 | 中等 |
 |	377.组合总和 Ⅳ | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Dynamic%20Programming/0377.combination_sum_IV.md) | 数组、动态规划 | 中等 |
 |	416.分割等和子集 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Dynamic%20Programming/0416.partition_equal_subset_sum.md) | 数组、动态规划 | 中等 |
@@ -503,6 +505,7 @@ Solve LeetCode by JS &amp; Python
 |	233.数字 1 的个数 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Multiple_Ideas/0233.number_of_digit_one.md) | 数学、数位 DP | 困难 |
 |	240.搜索二维矩阵 II | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Multiple_Ideas/0240.search_a_2D_matrix_II.md) | 数组、矩阵、二分查找、双指针 | 中等 |
 |	264.丑数 II | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Multiple_Ideas/0264.ugly_number_II.md) | 数学、双指针、动态规划 | 中等 |
+|	273.整数转换英文表示 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Multiple_Ideas/0273.integer_to_english_words.md) | 数学、递归、迭代 | 困难 |
 |	274.H 指数 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Multiple_Ideas/0274.H-Index.md) | 数组、排序、二分查找 | 中等 |
 |	279.完全平方数 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Multiple_Ideas/0279.perfect_squares.md) | 数学、BFS、动态优化 | 中等 |
 |	287.寻找重复数 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Multiple_Ideas/0287.find_the_duplicate_number.md) | 数组、双指针、二分查找 | 中等 |
@@ -515,6 +518,7 @@ Solve LeetCode by JS &amp; Python
 |	347.前 K 个高频元素 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Multiple_Ideas/0347.top_K_frequent_elements.md) | 数组、哈希表、优先级队列 | 中等 |
 |	365.水壶问题 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Multiple_Ideas/0365.water_and_jug_problem.md) | 数学、BFS | 中等 |
 |	378.有序矩阵中第 K 小的元素 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Multiple_Ideas/0378.Kth_smallest_element_in_a_sorted_matrix.md) | 矩阵、链表双指针、二分查找、优先级队列（堆）| 中等 |
+|	398.随机数索引 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Multiple_Ideas/0398.random_pick_index.md) | 数组、哈希、数学 | 中等 |
 |	451.根据字符出现频率排序 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Multiple_Ideas/0451.sort_characters_by_frequency.md) | 字符串、优先级队列（二叉堆）、桶排序| 中等 |
 |	475.供暖器 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Multiple_Ideas/0475.heaters.md) | 数组、排序+二分查找、排序+双指针 | 中等 |
 |	547.省份数量 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Multiple_Ideas/0547.number_of_provinces.md) | DFS、BFS、Union-Find | 中等 |
