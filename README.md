@@ -131,6 +131,7 @@ Solve LeetCode by JS &amp; Python
 |	974.和可被 K 整除的子数组 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Hashing/0974.subarray_sums_divisible_by_K.md) | 数组、哈希表 | 中等 |
 |	442.数组中重复的数据 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Hashing/0442.find_all_duplicates_in_an_array.md) | 数组、哈希表 | 中等 |
 |	454.四数相加 II | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Hashing/0454.4Sum_II.md) | 数组、哈希表 | 中等 |
+|	535.TinyURL 的加密与解密 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Hashing/0535.encode_and_decode_tinyURL.md) | 字符串、哈希 | 中等 |
 |	745.前缀和后缀搜索 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Hashing/0745.prefix_and_suffix_search.md) | 设计、字典树 | 困难 |
 |	1570.两个稀疏向量的点积 | [JS/Python](https://github.com/donnapersonal/solve_lc/blob/main/Hashing/1570.dot_product_of_two_sparse_vectors.md) | 数组、哈希 | 中等 |
 
